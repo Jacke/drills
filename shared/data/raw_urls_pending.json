@@ -1,0 +1,2990 @@
+[
+  {
+    "url": "https://github.com/brevdev/brev-cli"
+  },
+  {
+    "url": "https://ianthehenry.com/posts/delaunay/"
+  },
+  {
+    "url": "https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md"
+  },
+  {
+    "url": "https://github.com/Qovery/Replibyte"
+  },
+  {
+    "url": "https://github.com/nitnelave/lldap"
+  },
+  {
+    "url": "https://github.com/firecracker-microvm/firecracker/"
+  },
+  {
+    "url": "https://github.com/containers/bubblewrap"
+  },
+  {
+    "url": "https://troz.net/post/2022/swiftui-mac-2022/"
+  },
+  {
+    "url": "https://github.com/xem/minix86/blob/gh-pages/TLDR.md"
+  },
+  {
+    "url": "https://norasandler.com/2017/11/29/Write-a-Compiler.html"
+  },
+  {
+    "url": "https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/"
+  },
+  {
+    "url": "http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"
+  },
+  {
+    "url": "https://github.com/thlorenz/learnuv"
+  },
+  {
+    "url": "https://github.com/snare/voltron"
+  },
+  {
+    "url": "https://jacke.app.spacelift.io/modules"
+  },
+  {
+    "url": "https://rulex-rs.github.io/docs/language-tour/basics/"
+  },
+  {
+    "url": "https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/"
+  },
+  {
+    "url": "https://github.com/Spread0x/mirrord"
+  },
+  {
+    "url": "https://rr-project.org/"
+  },
+  {
+    "url": "https://untools.co/"
+  },
+  {
+    "url": "https://0x.tools/"
+  },
+  {
+    "url": "https://docs.buf.build/tour/lint-your-api"
+  },
+  {
+    "url": "https://github.com/trufflesecurity/trufflehog"
+  },
+  {
+    "url": "https://community.faros.ai/docs/quickstart-step-1"
+  },
+  {
+    "url": "https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html"
+  },
+  {
+    "url": "https://rustwasm.github.io/docs/wasm-bindgen/"
+  },
+  {
+    "url": "https://fly.io/docs/getting-started/node/"
+  },
+  {
+    "url": "https://github.com/vercel/turborepo"
+  },
+  {
+    "url": "https://nanovms.com/"
+  },
+  {
+    "url": "https://github.com/Jacke/ML-Course-Notes"
+  },
+  {
+    "url": "https://github.com/Jacke/lkmpg"
+  },
+  {
+    "url": "https://github.com/Jacke/cat"
+  },
+  {
+    "url": "https://github.com/Jacke/mlops-zoomcamp"
+  },
+  {
+    "url": "https://github.com/Jacke/The-Kaggle-Book"
+  },
+  {
+    "url": "https://github.com/Jacke/freeCodeCamp"
+  },
+  {
+    "url": "https://github.com/Jacke/dnote"
+  },
+  {
+    "url": "https://github.com/Spread0x/nodejs-cli-apps-best-practices"
+  },
+  {
+    "url": "https://github.com/Spread0x/sc"
+  },
+  {
+    "url": "https://github.com/rust-lang/rustlings"
+  },
+  {
+    "url": "https://upstash.com/"
+  },
+  {
+    "url": "https://github.com/Spread0x/pgFormatter"
+  },
+  {
+    "url": "https://docs.earthly.dev/basics"
+  },
+  {
+    "url": "https://github.com/zama-ai/demo_z8z"
+  },
+  {
+    "url": "https://zed.brimdata.io/docs/tutorials/zq/"
+  },
+  {
+    "url": "https://github.com/Spread0x/httm"
+  },
+  {
+    "url": "https://github.com/Jacke/terraform-provider-spotify"
+  },
+  {
+    "url": "https://learn.figment.io/protocols/solana"
+  },
+  {
+    "url": "https://panel.bunny.net/pullzones/instructions/742640"
+  },
+  {
+    "url": "https://messwithdns.net/"
+  },
+  {
+    "url": "https://github.com/Spread0x/OpenRefine"
+  },
+  {
+    "url": "http://docs.getmoto.org/en/latest/docs/getting_started.html"
+  },
+  {
+    "url": "https://keda.sh/docs/2.6/deploy/"
+  },
+  {
+    "url": "https://openebs.io/docs"
+  },
+  {
+    "url": "https://github.com/josdejong/workerpool"
+  },
+  {
+    "url": "https://github.com/Spread0x/node-usb"
+  },
+  {
+    "url": "https://github.com/Spread0x/bcc"
+  },
+  {
+    "url": "https://docs.tuist.io/tutorial/get-started"
+  },
+  {
+    "url": "https://github.com/Jacke/nushell"
+  },
+  {
+    "url": "https://github.com/deepfence/PacketStreamer"
+  },
+  {
+    "url": "https://github.com/confluentinc/demo-scene"
+  },
+  {
+    "url": "https://github.com/jpetazzo/container.training"
+  },
+  {
+    "url": "https://github.com/Jacke/certified-kubernetes-administrator-course"
+  },
+  {
+    "url": "https://github.com/trufflesecurity/trufflehog"
+  },
+  {
+    "url": "https://github.com/Spread0x/certify2"
+  },
+  {
+    "url": "https://github.com/Spread0x/certify"
+  },
+  {
+    "url": "https://github.com/Jacke/aws-sa-associate-saac02"
+  },
+  {
+    "url": "https://github.com/Spread0x/magic-trace"
+  },
+  {
+    "url": "https://github.com/Spread0x/q"
+  },
+  {
+    "url": "https://github.com/Spread0x/nanos"
+  },
+  {
+    "url": "https://github.com/inomera/kafka-3-cluster"
+  },
+  {
+    "url": "https://github.com/Spread0x/tcpreplay"
+  },
+  {
+    "url": "https://github.com/Spread0x/sha256_project"
+  },
+  {
+    "url": "https://github.com/kris-nova/boopkit"
+  },
+  {
+    "url": "https://github.com/Jacke/MalwareSourceCode"
+  },
+  {
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices"
+  },
+  {
+    "url": "https://github.com/Jacke/satellite-image-deep-learning"
+  },
+  {
+    "url": "https://www.v2ray.com/en/welcome/start.html"
+  },
+  {
+    "url": "https://github.com/cuusoo-labs/databricks-lakehouse"
+  },
+  {
+    "url": "https://github.com/Geal/nom"
+  },
+  {
+    "url": "https://github.com/Spread0x/gopsutil"
+  },
+  {
+    "url": "https://docs.crunchybridge.com/quickstart/cli/"
+  },
+  {
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps"
+  },
+  {
+    "url": "https://github.com/grafana/loki"
+  },
+  {
+    "url": "https://opengapps.org/"
+  },
+  {
+    "url": "https://github.com/Spread0x/docker-elk"
+  },
+  {
+    "url": "https://github.com/libp2p/go-libp2p"
+  },
+  {
+    "url": "https://blog.indoorvivants.com/2022-02-14-cloudflare-functions-with-scalajs"
+  },
+  {
+    "url": "https://github.com/Spread0x/nuclei"
+  },
+  {
+    "url": "https://github.com/Spread0x/bore"
+  },
+  {
+    "url": "https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/"
+  },
+  {
+    "url": "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition"
+  },
+  {
+    "url": "https://supabase.com/blog/2022/03/31/supabase-edge-functions"
+  },
+  {
+    "url": "https://github.com/Spread0x/OpenBBTerminal"
+  },
+  {
+    "url": "https://gtoolkit.com/"
+  },
+  {
+    "url": "https://b-peng.blogspot.com/2022/03/pgo-v5-installation.html"
+  },
+  {
+    "url": "https://www.pinecone.io/docs/quickstart/"
+  },
+  {
+    "url": "https://docs.astro.build/en/getting-started/"
+  },
+  {
+    "url": "https://github.com/Spread0x/ThreatMapper"
+  },
+  {
+    "url": "https://github.com/Spread0x/PacketStreamer"
+  },
+  {
+    "url": "https://grafana.com/tutorials/play-with-grafana-mimir/?pg=oss-mimir&plcmt=hero-btn-1"
+  },
+  {
+    "url": "https://github.com/learnwithjason/commandbar"
+  },
+  {
+    "url": "https://github.com/Spread0x/meta"
+  },
+  {
+    "url": "https://github.com/Spread0x/easy-rsa"
+  },
+  {
+    "url": "https://redis.io/docs/stack/get-started/tutorials/stack-node/"
+  },
+  {
+    "url": "https://docs.ops.city/ops/getting_started"
+  },
+  {
+    "url": "https://megalinter.github.io/5.3.0/installation/"
+  },
+  {
+    "url": "https://docs.cilium.io/en/stable/gettingstarted/k8s-install-default/"
+  },
+  {
+    "url": "https://medium.com/@asimovbio/vpn-less-authentication-with-google-iap-k8s-and-ambassador-ff848136f62"
+  },
+  {
+    "url": "https://kuma.io/docs/1.5.x/installation/helm/"
+  },
+  {
+    "url": "https://getenroute.io/docs/getting-started-enroute-ingress-controller/"
+  },
+  {
+    "url": "https://docs.cilium.io/en/stable/gettingstarted/kubeproxy-free/#quick-start"
+  },
+  {
+    "url": "https://github.com/Spread0x/dopplertask"
+  },
+  {
+    "url": "https://boxyhq.com/docs/jackson/introduction"
+  },
+  {
+    "url": "https://vagon.io/streams?ref=producthunt"
+  },
+  {
+    "url": "https://github.com/Spread0x/pgaudit"
+  },
+  {
+    "url": "https://argo-cd.readthedocs.io/en/stable/getting_started/"
+  },
+  {
+    "url": "https://buoyant.io/linkerd-runbook/"
+  },
+  {
+    "url": "https://sdk.operatorframework.io/docs/building-operators/golang/quickstart/"
+  },
+  {
+    "url": "https://try.zeek.org/#/?example=hello"
+  },
+  {
+    "url": "https://getmizu.io/docs/installing-mizu/downloading-mizu-cli"
+  },
+  {
+    "url": "https://github.com/Spread0x/prettier-plugin-tailwindcss"
+  },
+  {
+    "url": "https://github.com/Spread0x/styles"
+  },
+  {
+    "url": "https://docs.flutter.dev/get-started/install/macos"
+  },
+  {
+    "url": "https://remix.run/docs/en/v1"
+  },
+  {
+    "url": "https://mantine.dev/getting-started/"
+  },
+  {
+    "url": "https://github.com/Spread0x/danfojs"
+  },
+  {
+    "url": "https://github.com/Spread0x/trpc"
+  },
+  {
+    "url": "https://github.com/Spread0x/supertokens-core"
+  },
+  {
+    "url": "https://github.com/Spread0x/partytown/tree/main"
+  },
+  {
+    "url": "https://www.integralist.co.uk/posts/github-actions/"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-getting-started.html"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/serverless/introducing-the-next-generation-of-cloud-functions?ref=console.dev"
+  },
+  {
+    "url": "https://goteleport.com/docs/getting-started/linux-server/"
+  },
+  {
+    "url": "https://docs.railway.app/getting-started"
+  },
+  {
+    "url": "https://simonwillison.net/2022/Mar/14/shot-scraper-template/"
+  },
+  {
+    "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi"
+  },
+  {
+    "url": "https://pi-hole.net/"
+  },
+  {
+    "url": "https://github.com/Spread0x/hackpadfs"
+  },
+  {
+    "url": "https://github.com/pspiagicw/qemantra"
+  },
+  {
+    "url": "https://github.com/netlify/labs/tree/main/features/graph/documentation"
+  },
+  {
+    "url": "https://github.com/linpengcheng/PurefunctionPipelineDataflow"
+  },
+  {
+    "url": "https://github.com/marketplace/sourcery-ai"
+  },
+  {
+    "url": "https://github.com/pengan1987/computer-museum-dnbwg"
+  },
+  {
+    "url": "https://github.com/looker-open-source/malloy?ref=stackshare"
+  },
+  {
+    "url": "https://github.com/PowerJob/PowerJob"
+  },
+  {
+    "url": "https://github.com/git-friendly/git-friendly"
+  },
+  {
+    "url": "https://github.com/blues/sparrow-reference-web-app"
+  },
+  {
+    "url": "https://github.com/rowyio/rowy"
+  },
+  {
+    "url": "https://github.com/gristlabs/grist-core"
+  },
+  {
+    "url": "https://stormssh.readthedocs.io/en/master/installing.html"
+  },
+  {
+    "url": "https://github.com/Spread0x/assh"
+  },
+  {
+    "url": "https://github.com/macmade/unicorn-bios"
+  },
+  {
+    "url": "https://github.com/Jacke/nq/tree/master"
+  },
+  {
+    "url": "https://github.com/Spread0x/netshoot"
+  },
+  {
+    "url": "https://github.com/mcandre/stank"
+  },
+  {
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+  },
+  {
+    "url": "https://github.com/svix/svix-webhooks"
+  },
+  {
+    "url": "https://github.com/ToolJet/ToolJet"
+  },
+  {
+    "url": "https://github.com/Spread0x/git-branchless"
+  },
+  {
+    "url": "https://github.com/google/ko"
+  },
+  {
+    "url": "https://github.com/CZ-NIC/pz?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://github.com/Spread0x/git-secrets"
+  },
+  {
+    "url": "https://github.com/Spread0x/truffleHog"
+  },
+  {
+    "url": "https://github.com/Spread0x/sops"
+  },
+  {
+    "url": "https://crunchybridge.com/dashboard"
+  },
+  {
+    "url": "https://github.com/martinvonz/jj"
+  },
+  {
+    "url": "https://github.com/mattgathu/duma"
+  },
+  {
+    "url": "https://github.com/axel-download-accelerator/axel"
+  },
+  {
+    "url": "https://github.com/Spread0x/hygen"
+  },
+  {
+    "url": "https://github.com/Spread0x/garage/tree/main"
+  },
+  {
+    "url": "https://github.com/project-serum/anchor"
+  },
+  {
+    "url": "https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/"
+  },
+  {
+    "url": "https://solana.com/news/getting-started-with-solana-development"
+  },
+  {
+    "url": "https://codepip.com/games/grid-garden/"
+  },
+  {
+    "url": "https://flexboxfroggy.com/"
+  },
+  {
+    "url": "https://codepen.io/miriamsuzanne/pen/gOXRzBa"
+  },
+  {
+    "url": "https://ishadeed.com/article/cascade-layers/"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2022/01/introduction-css-cascade-layers/"
+  },
+  {
+    "url": "https://specifyapp.com/developers/api"
+  },
+  {
+    "url": "https://retool.com/integrations/"
+  },
+  {
+    "url": "https://project-serum.github.io/anchor/getting-started/introduction.html"
+  },
+  {
+    "url": "https://www.debuggingbook.org/html/Debugger.html"
+  },
+  {
+    "url": "https://fly.io/?ref=console.dev"
+  },
+  {
+    "url": "https://blog.crunchydata.com/blog/postgres-indexes-for-newbies"
+  },
+  {
+    "url": "https://heap.io/blog/lessons-from-completing-a-few-advent-of-code-problems-in-postgres-sql"
+  },
+  {
+    "url": "https://rclayton.silvrback.com/distributed-locking-with-postgres-advisory-locks"
+  },
+  {
+    "url": "https://github.com/que-rb/que"
+  },
+  {
+    "url": "https://codersociety.com/blog/articles/helm-best-practices"
+  },
+  {
+    "url": "https://portal.securecodewarrior.com/#/home"
+  },
+  {
+    "url": "https://softwaremill.com/hands-on-kafka-streams-in-scala/"
+  },
+  {
+    "url": "https://www.digitalocean.com/community/tutorials/how-to-process-images-in-node-js-with-sharp"
+  },
+  {
+    "url": "https://www.actionsbyexample.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://toolchest-python-client.readthedocs.io/en/latest/user/quickstart.html"
+  },
+  {
+    "url": "https://github.com/Spread0x/reshape/tree/main"
+  },
+  {
+    "url": "https://github.com/Jacke/switchboard/tree/master"
+  },
+  {
+    "url": "https://github.com/Jacke/gotenksfs"
+  },
+  {
+    "url": "https://github.com/Jacke/lunatech-scala-2-to-scala3-course/tree/exercises-master"
+  },
+  {
+    "url": "https://github.com/Spread0x/colima"
+  },
+  {
+    "url": "https://blog.devgenius.io/what-git-professionals-will-use-in-2022-dura-73dfe4f17500"
+  },
+  {
+    "url": "https://github.com/ggreer/the_silver_searcher"
+  },
+  {
+    "url": "https://beyondgrep.com/"
+  },
+  {
+    "url": "https://www.freecodecamp.org/news/how-to-build-a-jamstack-site-with-next-js-and-vercel-jamstack-handbook/"
+  },
+  {
+    "url": "https://snipcart.com/blog/vercel-vs-netlify"
+  },
+  {
+    "url": "https://spacejelly.dev/posts/how-to-generate-personalized-social-media-cards-for-landing-pages-with-next-js-cloudinary/"
+  },
+  {
+    "url": "https://www.conventionalcommits.org/en/v1.0.0/"
+  },
+  {
+    "url": "https://www.serverless.com/framework/docs/getting-started"
+  },
+  {
+    "url": "https://github.com/FastVM/minivm"
+  },
+  {
+    "url": "https://github.com/mifi/instauto"
+  },
+  {
+    "url": "https://doc.libsodium.org/quickstart"
+  },
+  {
+    "url": "https://interestinglab.github.io/seatunnel-docs/#/en/quick-start"
+  },
+  {
+    "url": "https://github.com/andywer/threads.js"
+  },
+  {
+    "url": "https://github.com/spf13/afero"
+  },
+  {
+    "url": "https://docs.litmuschaos.io/docs/getting-started/resources/"
+  },
+  {
+    "url": "https://nocalhost.dev/docs/quick-start/"
+  },
+  {
+    "url": "https://browsix.org/"
+  },
+  {
+    "url": "https://vitejs.dev/guide/"
+  },
+  {
+    "url": "https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/"
+  },
+  {
+    "url": "https://docs.errata.ai/vale/cli"
+  },
+  {
+    "url": "https://docs.planetscale.com/tutorials/planetscale-quick-start-guide"
+  },
+  {
+    "url": "https://medium.com/clear-street/why-we-moved-to-local-kubernetes-development-at-clear-street-523045dd2ac8"
+  },
+  {
+    "url": "https://www.section.io/get-started-signup/"
+  },
+  {
+    "url": "https://docs.megaport.com/mve/cisco/connect-mve-to-mve/"
+  },
+  {
+    "url": "https://docs.megaport.com/mcr/mcr-private-cloud/"
+  },
+  {
+    "url": "https://github.com/slundberg/shap"
+  },
+  {
+    "url": "https://github.com/Slurmio/school-dev-k8s"
+  },
+  {
+    "url": "https://rstudio-conf-2020.github.io/r-for-excel/"
+  },
+  {
+    "url": "https://www.postgresql.org/docs/current/logical-replication.html"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/cdk/latest/guide/hello_world.html"
+  },
+  {
+    "url": "https://taskfile.dev/#/"
+  },
+  {
+    "url": "https://aws.amazon.com/braket/getting-started/"
+  },
+  {
+    "url": "https://aws-otel.github.io/docs/getting-started/java-sdk/trace-auto-instr"
+  },
+  {
+    "url": "https://catalog.us-east-1.prod.workshops.aws/v2/workshops/31676d37-bbe9-4992-9cd1-ceae13c5116c/en-US/adot/javawalkthrough"
+  },
+  {
+    "url": "https://towardsdatascience.com/another-jupyterlab-extension-you-should-know-about-146371cf0f32"
+  },
+  {
+    "url": "https://dzlab.github.io/ml/2021/08/21/spark-jep/?ref=mlnews"
+  },
+  {
+    "url": "https://github.com/cesanta/elk?ck_subscriber_id=1238255923"
+  },
+  {
+    "url": "https://github.com/linkedin/cruise-control"
+  },
+  {
+    "url": "https://github.com/Sairyss/domain-driven-hexagon"
+  },
+  {
+    "url": "https://www.nomadproject.io/"
+  },
+  {
+    "url": "https://github.com/python-engineer/ml-study-plan"
+  },
+  {
+    "url": "https://github.com/Nyandwi/machine_learning_complete"
+  },
+  {
+    "url": "https://github.com/stackgl/shader-school"
+  },
+  {
+    "url": "https://habr.com/ru/post/502734/"
+  },
+  {
+    "url": "https://github.com/Spread0x/headscale"
+  },
+  {
+    "url": "https://www.networkworld.com/article/3533551/linux-firewall-basics-with-ufw.html"
+  },
+  {
+    "url": "https://docs.theatrejs.com/"
+  },
+  {
+    "url": "https://developer.apple.com/documentation/virtualization/running_linux_in_a_virtual_machine"
+  },
+  {
+    "url": "http://spread8-dev-ed.my.salesforce.com"
+  },
+  {
+    "url": "https://developer.salesforce.com/"
+  },
+  {
+    "url": "https://retool.com/?utm_source=sponsor&utm_medium=newsletter&utm_campaign=bytes&ck_subscriber_id=1238255923"
+  },
+  {
+    "url": "https://github.com/trekhleb/javascript-algorithms"
+  },
+  {
+    "url": "https://github.com/Jam3/math-as-code"
+  },
+  {
+    "url": "https://github.com/graviraja/MLOps-Basics"
+  },
+  {
+    "url": "https://docs.thousandeyes.com/product-documentation/internet-and-wan-monitoring/path-visualization/using-the-path-visualization-view"
+  },
+  {
+    "url": "https://hub.qovery.com/guides/getting-started/deploy-your-first-application/"
+  },
+  {
+    "url": "https://tailscale.com/"
+  },
+  {
+    "url": "https://github.com/trusch/snakeos"
+  },
+  {
+    "url": "https://github.com/enquirer/enquirer"
+  },
+  {
+    "url": "https://github.com/bats-core/bats-core"
+  },
+  {
+    "url": "https://github.com/dylanaraps/pure-sh-bible"
+  },
+  {
+    "url": "https://github.com/denysdovhan/bash-handbook"
+  },
+  {
+    "url": "https://github.com/petervanderdoes/gitflow-avh"
+  },
+  {
+    "url": "https://github.com/donnemartin/gitsome"
+  },
+  {
+    "url": "https://github.com/CISOfy/lynis"
+  },
+  {
+    "url": "https://github.com/Spread0x/sampler"
+  },
+  {
+    "url": "https://github.com/n8n-io/n8n"
+  },
+  {
+    "url": "https://github.com/Spread0x/dive"
+  },
+  {
+    "url": "https://asdf-vm.com/"
+  },
+  {
+    "url": "https://github.com/bytecodealliance/wasmtime"
+  },
+  {
+    "url": "https://caddyserver.com/"
+  },
+  {
+    "url": "https://github.com/apex/gateway"
+  },
+  {
+    "url": "https://github.com/glauth/glauth"
+  },
+  {
+    "url": "http://stackblitz.com"
+  },
+  {
+    "url": "https://github.com/Spread0x/git-interactive-rebase-tool"
+  },
+  {
+    "url": "https://docs.rs/chronofold/0.3.0/chronofold/"
+  },
+  {
+    "url": "https://github.com/datafuselabs/datafuse/?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://jlongster.com/future-sql-web?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://github.com/fanout/pushpin-c1m"
+  },
+  {
+    "url": "https://zio.github.io/zio-prelude/"
+  },
+  {
+    "url": "https://gruntwork.io/guides#foundations"
+  },
+  {
+    "url": "https://github.com/swc-project/swc"
+  },
+  {
+    "url": "https://github.com/Spread0x/localstack"
+  },
+  {
+    "url": "https://threejs-journey.xyz/"
+  },
+  {
+    "url": "https://www.appvia.io/blog/expose-kubernetes-service-eks-dns-tls"
+  },
+  {
+    "url": "https://kops.sigs.k8s.io/getting_started/aws/"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/compute/enabling-dns-resolution-for-amazon-eks-cluster-endpoints/"
+  },
+  {
+    "url": "https://www.padok.fr/en/blog/external-dns-route53-eks"
+  },
+  {
+    "url": "https://learnk8s.io/kubernetes-resources"
+  },
+  {
+    "url": "https://github.com/bookingcom/shipper"
+  },
+  {
+    "url": "https://learnk8s.io/bite-sized/connecting-multiple-kubernetes-clusters"
+  },
+  {
+    "url": "https://kubespray.io/#/docs/ha-mode"
+  },
+  {
+    "url": "https://stackblitz.com/edit/node-ttqtcj?file=.vscode%2Fsettings.json"
+  },
+  {
+    "url": "https://scalqa.org/doc/guide/introduction/H2O_Structure.html"
+  },
+  {
+    "url": "https://medium.com/@_ektagarg/set-up-kubernetes-cluster-on-aws-using-kops-369e2dcc8477"
+  },
+  {
+    "url": "https://rancher.com/blog/2020/three-way-to-run-aws"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html"
+  },
+  {
+    "url": "https://logz.io/blog/monitoring-kubernetes-grafana-influxdb/"
+  },
+  {
+    "url": "https://gruntwork.io/guides/networking/how-to-deploy-production-grade-vpc-aws"
+  },
+  {
+    "url": "https://gruntwork.io/guides/kubernetes/how-to-deploy-production-grade-kubernetes-cluster-aws/#use-eks"
+  },
+  {
+    "url": "https://gruntwork.io/guides/kubernetes/how-to-deploy-production-grade-kubernetes-cluster-aws/#use-eks"
+  },
+  {
+    "url": "https://www.replex.io/blog/the-ultimate-guide-to-deploying-kubernetes-cluster-on-aws-ec2-spot-instances-using-kops-and-eks"
+  },
+  {
+    "url": "https://www.replex.io/blog/the-ultimate-guide-to-deploying-kubernetes-cluster-on-aws-ec2-spot-instances-using-kops-and-eks"
+  },
+  {
+    "url": "https://d2iq.com/products/kudo"
+  },
+  {
+    "url": "https://rancher.com/blog/2020/three-way-to-run-aws"
+  },
+  {
+    "url": "https://d2iq.com/products/kaptain"
+  },
+  {
+    "url": "https://d2iq.com/products/konvoy"
+  },
+  {
+    "url": "https://d2iq.com/products/kommander"
+  },
+  {
+    "url": "https://rancher.com/products/rancher/"
+  },
+  {
+    "url": "https://www.agora.io/en/products/real-time-messaging/"
+  },
+  {
+    "url": "https://0xax.gitbooks.io/linux-insides/content/index.html"
+  },
+  {
+    "url": "https://github.com/Jacke/ML-YouTube-Courses"
+  },
+  {
+    "url": "https://github.com/Jacke/Practical-Ethical-Hacking-Resources"
+  },
+  {
+    "url": "https://github.com/gajus/slonik"
+  },
+  {
+    "url": "https://github.com/dream11/zio-http/pull/303/files#diff-418fe6651833187bc394f8dfb96b684dbe32429b91249363039a12943678e6f2"
+  },
+  {
+    "url": "https://github.com/Spread0x/termenv"
+  },
+  {
+    "url": "https://sqlbolt.com/lesson/select_queries_with_aggregates"
+  },
+  {
+    "url": "https://github.com/diekmann/wasm-fizzbuzz"
+  },
+  {
+    "url": "https://ivanceras.github.io/svgbob-editor/"
+  },
+  {
+    "url": "https://earthly.dev/blog/python-timsort-merge/"
+  },
+  {
+    "url": "https://fly.io/"
+  },
+  {
+    "url": "https://fly.io/docs/speedrun/"
+  },
+  {
+    "url": "https://vc.ru/life/189815-3-prostyh-sposoba-generacii-i-proverki-idey-s-pomoshchyu-kotoryh-ya-nashla-ideyu-dlya-startapa"
+  },
+  {
+    "url": "https://golangbot.com/learn-golang-series/"
+  },
+  {
+    "url": "https://gobyexample.com/goroutines"
+  },
+  {
+    "url": "https://sioyek.info/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "url": "https://www.tabnine.com/install"
+  },
+  {
+    "url": "http://craftinginterpreters.com/"
+  },
+  {
+    "url": "https://github.com/Spread0x/schema-registry"
+  },
+  {
+    "url": "https://docs.confluent.io/3.1.1/cp-docker-images/docs/quickstart.html"
+  },
+  {
+    "url": "https://docs.airplane.dev/getting-started/quickstart"
+  },
+  {
+    "url": "https://www.nylas.com/"
+  },
+  {
+    "url": "https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/"
+  },
+  {
+    "url": "https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/visualize/"
+  },
+  {
+    "url": "https://github.com/deusaquilus/derivation_examples"
+  },
+  {
+    "url": "https://github.com/jatcwang/difflicious"
+  },
+  {
+    "url": "https://github.com/Spread0x/mazboot"
+  },
+  {
+    "url": "https://github.com/Spread0x/lipgloss"
+  },
+  {
+    "url": "https://www.aquasec.com/cloud-native-academy/devsecops/devsecops-tools/"
+  },
+  {
+    "url": "https://code.dennyzhang.com/max-area-of-island"
+  },
+  {
+    "url": "https://blog.oyanglul.us/scala/dotty/en/type-classes"
+  },
+  {
+    "url": "https://blog.oyanglul.us/scala/dotty/en/phantomtype"
+  },
+  {
+    "url": "https://blog.oyanglul.us/scala/dotty/en/gadt"
+  },
+  {
+    "url": "https://alexn.org/blog/2021/01/26/tail-recursive-functions-in-scala.html"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=27853352&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn"
+  },
+  {
+    "url": "https://www.range.co/pricing"
+  },
+  {
+    "url": "https://github.com/rcoh/angle-grinder?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "url": "https://github.com/afnanenayet/diffsitter?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://avi.im/blag/2021/fast-sqlite-inserts/?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://gearsoftesting.org/testable-architecture.html"
+  },
+  {
+    "url": "https://github.com/zio/zio-json"
+  },
+  {
+    "url": "https://pbs.twimg.com/media/Dqmn6ACWoAA3JIp?format=jpg&name=large"
+  },
+  {
+    "url": "https://github.com/marketplace/sider"
+  },
+  {
+    "url": "https://github.com/serverless-stack/serverless-stack"
+  },
+  {
+    "url": "https://github.com/Spread0x/terraformer"
+  },
+  {
+    "url": "https://katacoda.com/datastax/courses/cassandra-try-it-out/try-cql"
+  },
+  {
+    "url": "https://kubernetes.io/docs/concepts/storage/volumes/#emptydir"
+  },
+  {
+    "url": "https://docs.gluster.org/en/latest/Quick-Start-Guide/Quickstart/"
+  },
+  {
+    "url": "https://github.com/Spread0x/Chronicle-Network"
+  },
+  {
+    "url": "https://aws.amazon.com/developer/language/go/?intClick=dev-center-2021_main"
+  },
+  {
+    "url": "https://aws.amazon.com/developer/language/cpp/?intClick=dev-center-2021_main"
+  },
+  {
+    "url": "https://aws.amazon.com/developer/language/java/?intClick=dev-center-2021_main"
+  },
+  {
+    "url": "https://aws.amazon.com/developer/language/python/?intClick=dev-center-2021_main"
+  },
+  {
+    "url": "https://spinnaker.io/docs/setup/quickstart/"
+  },
+  {
+    "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/brew.html"
+  },
+  {
+    "url": "https://github.com/Spread0x/kustomize"
+  },
+  {
+    "url": "https://access.crunchydata.com/documentation/postgres-operator/4.7.0/quickstart/"
+  },
+  {
+    "url": "https://github.com/pgpartman/pg_partman"
+  },
+  {
+    "url": "https://pgdash.io/blog/postgres-11-sharding.html"
+  },
+  {
+    "url": "https://docs.projectcalico.org/getting-started/kubernetes/hardway/istio-integration"
+  },
+  {
+    "url": "https://www.waypointproject.io/docs/getting-started"
+  },
+  {
+    "url": "https://fauna.com/"
+  },
+  {
+    "url": "https://enso.org/?ref=stackshare"
+  },
+  {
+    "url": "https://ksqldb.io/quickstart.html#quickstart-content"
+  },
+  {
+    "url": "https://github.com/confluentinc/examples/tree/master"
+  },
+  {
+    "url": "https://github.com/Spread0x/milan"
+  },
+  {
+    "url": "https://www.waypointproject.io/"
+  },
+  {
+    "url": "https://github.com/Spread0x/seaweedfs"
+  },
+  {
+    "url": "https://www.katacoda.com/"
+  },
+  {
+    "url": "https://forge.sh/?utm_source=katacoda&utm_medium=tutorial&utm_campaign=tutorial"
+  },
+  {
+    "url": "https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/"
+  },
+  {
+    "url": "https://habr.com/ru/company/redhatrussia/blog/440188/"
+  },
+  {
+    "url": "https://github.com/Spread0x/pagerduty_operator"
+  },
+  {
+    "url": "https://www.pagerduty.com/docs/guides/prometheus-integration-guide/"
+  },
+  {
+    "url": "https://cert-manager.io/docs/"
+  },
+  {
+    "url": "https://logz.io/blog/kubernetes-monitoring/"
+  },
+  {
+    "url": "https://www.replex.io/blog/kubernetes-in-production-the-ultimate-guide-to-monitoring-resource-metrics"
+  },
+  {
+    "url": "https://kubernetes.io/docs/concepts/cluster-administration/system-metrics/"
+  },
+  {
+    "url": "https://github.com/kubernetes-sigs/metrics-server"
+  },
+  {
+    "url": "https://www.datadoghq.com/blog/monitoring-kubernetes-performance-metrics/"
+  },
+  {
+    "url": "https://kustomize.io/"
+  },
+  {
+    "url": "https://tilt.dev/"
+  },
+  {
+    "url": "https://garden.io/"
+  },
+  {
+    "url": "https://skaffold.dev/docs/pipeline-stages/init"
+  },
+  {
+    "url": "https://spinnaker.io/?ref=stackshare"
+  },
+  {
+    "url": "https://argoproj.github.io/?ref=stackshare"
+  },
+  {
+    "url": "https://earthly.dev/"
+  },
+  {
+    "url": "https://github.com/werf/kubedog"
+  },
+  {
+    "url": "https://werf.io/"
+  },
+  {
+    "url": "https://github.com/flant/shell-operator"
+  },
+  {
+    "url": "https://www.kubestack.com/"
+  },
+  {
+    "url": "https://github.com/Spread0x/aws-lambda-developer-guide"
+  },
+  {
+    "url": "https://github.com/Jacke/transfer.sh"
+  },
+  {
+    "url": "https://github.com/Jacke/awesome-newsletters"
+  },
+  {
+    "url": "https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html"
+  },
+  {
+    "url": "https://github.com/wasmerio/wasmer-java"
+  },
+  {
+    "url": "https://github.com/wasmerio/wasmer-rust-example"
+  },
+  {
+    "url": "https://github.com/Jacke/ArchitectureWeekly"
+  },
+  {
+    "url": "https://martinfowler.com/articles/patterns-of-distributed-systems/"
+  },
+  {
+    "url": "https://principles.dev/p/"
+  },
+  {
+    "url": "https://www.tinybird.co/?ref=producthunt"
+  },
+  {
+    "url": "https://github.com/containernetworking/cni"
+  },
+  {
+    "url": "https://github.com/Spread0x/kok"
+  },
+  {
+    "url": "https://docs.syncthing.net/intro/getting-started.html"
+  },
+  {
+    "url": "https://skaffold.dev/"
+  },
+  {
+    "url": "https://console.aws.amazon.com/codesuite/codecommit/start?region=us-east-1"
+  },
+  {
+    "url": "https://console.aws.amazon.com/apprunner/home?region=us-east-1#/welcome"
+  },
+  {
+    "url": "https://accounts.cloud.databricks.com/#aws"
+  },
+  {
+    "url": "https://github.com/Spread0x/Echo-Server#Kubernetes"
+  },
+  {
+    "url": "https://scalalandio.github.io/chimney/"
+  },
+  {
+    "url": "https://github.com/apollographql/supergraph-demo"
+  },
+  {
+    "url": "https://app.lightstep.com/stanislav-sobolev-dev-6a8191e8/service-directory"
+  },
+  {
+    "url": "https://www.qovery.com/"
+  },
+  {
+    "url": "https://2ality.com/2021/06/temporal-api.html"
+  },
+  {
+    "url": "https://github.com/Spread0x/aria2"
+  },
+  {
+    "url": "https://danielmiessler.com/study/tcpdump/"
+  },
+  {
+    "url": "https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from-videos-using-ffmpeg/"
+  },
+  {
+    "url": "https://tailscale.com/"
+  },
+  {
+    "url": "https://github.com/axiomhq/hyperminhash"
+  },
+  {
+    "url": "https://github.com/ascv/HyperLogLog"
+  },
+  {
+    "url": "https://github.com/alecmocatta/streaming_algorithms"
+  },
+  {
+    "url": "https://github.com/dynatrace-research/set-sketch-paper"
+  },
+  {
+    "url": "https://github.com/Spread0x/lightseq"
+  },
+  {
+    "url": "https://github.com/jina-ai/jina#read-tutorials"
+  },
+  {
+    "url": "https://www.amundsen.io/amundsen/"
+  },
+  {
+    "url": "https://github.com/brendangregg/perf-tools"
+  },
+  {
+    "url": "https://github.com/OpenHFT/Chronicle-Network"
+  },
+  {
+    "url": "https://github.com/meg768/sky-brightness"
+  },
+  {
+    "url": "https://disneystreaming.github.io/weaver-test/"
+  },
+  {
+    "url": "https://kubuszok.com/2018/kinds-of-types-in-scala-part-2/#type-constraints"
+  },
+  {
+    "url": "http://ekzhu.com/datasketch/"
+  },
+  {
+    "url": "https://github.com/Jacke/javascript-algorithms"
+  },
+  {
+    "url": "https://github.com/GokuMohandas/MadeWithML"
+  },
+  {
+    "url": "https://www.themoderncoder.com/a-better-git-workflow-with-rebase/"
+  },
+  {
+    "url": "https://h3manth.com/ES2021/"
+  },
+  {
+    "url": "https://github.com/lukemerrett/PythonLambdaTerraformExample"
+  },
+  {
+    "url": "https://github.com/aws/aws-lambda-runtime-interface-emulator"
+  },
+  {
+    "url": "https://github.com/derailed/k9s"
+  },
+  {
+    "url": "https://wasmbyexample.dev/home.en-us.html#"
+  },
+  {
+    "url": "https://github.com/Spread0x/iron"
+  },
+  {
+    "url": "https://github.com/zio/zio-kafka"
+  },
+  {
+    "url": "https://ziverge.com/blog/introduction-to-zio-kafka/"
+  },
+  {
+    "url": "https://medium.com/@bigdataschool/%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE%D0%B5-delta-lake-%D0%BD%D0%B0-apache-spark-%D0%BE%D1%82-databricks-vs-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%BE%D0%B7%D0%B5%D1%80%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-hadoop-5-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85-2b6c2f926eb0"
+  },
+  {
+    "url": "https://databricks.com/glossary/hadoop-ecosystem"
+  },
+  {
+    "url": "https://databricks.com/try-databricks"
+  },
+  {
+    "url": "https://www.baeldung.com/spring-kafka"
+  },
+  {
+    "url": "https://www.jigsawacademy.com/blogs/big-data/hadoop-ecosystem/"
+  },
+  {
+    "url": "https://databricks.com/blog/2021/03/25/its-time-to-re-evaluate-your-relationship-with-hadoop.html"
+  },
+  {
+    "url": "https://kafka.apache.org/quickstart"
+  },
+  {
+    "url": "https://riptutorial.com/apache-kafka"
+  },
+  {
+    "url": "https://www.nextplatform.com/2021/02/17/why-the-fortune-500-is-finally-dumping-hadoop/"
+  },
+  {
+    "url": "https://www.tutorialspoint.com/apache_kafka/index.htm"
+  },
+  {
+    "url": "https://github.com/mwielocha/factorio"
+  },
+  {
+    "url": "https://github.com/Spread0x/git-revise"
+  },
+  {
+    "url": "https://github.com/Spread0x/git-branchless"
+  },
+  {
+    "url": "https://github.com/dhamaniasad/awesome-postgres#high-availability"
+  },
+  {
+    "url": "https://www.postgresql.org/docs/current/wal-reliability.html"
+  },
+  {
+    "url": "https://www.postgresql.org/docs/9.1/high-availability.html"
+  },
+  {
+    "url": "https://www.enterprisedb.com/why-edb/get-the-most-out-of-postgresql-open-source-database"
+  },
+  {
+    "url": "https://www.enterprisedb.com/postgres-tutorials/postgresql-replication-and-automatic-failover-tutorial"
+  },
+  {
+    "url": "https://wiki.postgresql.org/wiki/Streaming_Replication"
+  },
+  {
+    "url": "https://pgdash.io/blog/monitoring-postgres-replication.html"
+  },
+  {
+    "url": "https://github.com/vitabaks/postgresql_cluster"
+  },
+  {
+    "url": "https://github.com/yandex/odyssey"
+  },
+  {
+    "url": "https://d2l.ai/"
+  },
+  {
+    "url": "https://quarkus.io/"
+  },
+  {
+    "url": "https://github.com/Spread0x/autocomplete"
+  },
+  {
+    "url": "https://betterprogramming.pub/9-terminal-commands-you-can-start-using-today-7b9b0e273894"
+  },
+  {
+    "url": "https://habr.com/ru/company/otus/blog/509438/"
+  },
+  {
+    "url": "https://blog.crunchydata.com/blog/better-range-types-in-postgres-14-turning-100-lines-of-sql-into-3"
+  },
+  {
+    "url": "https://fabianlindfors.se/blog/schema-migrations-in-postgres/"
+  },
+  {
+    "url": "https://github.com/Spread0x/happypath"
+  },
+  {
+    "url": "https://embeddedartistry.com/blog/2017/05/17/creating-a-circular-buffer-in-c-and-c/"
+  },
+  {
+    "url": "https://www.envoyproxy.io/"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html"
+  },
+  {
+    "url": "https://kafka.apache.org/documentation/#introduction"
+  },
+  {
+    "url": "https://github.com/timberio/vector"
+  },
+  {
+    "url": "https://github.com/sivasamyk/logtrail"
+  },
+  {
+    "url": "https://robin.io/"
+  },
+  {
+    "url": "https://logit.io/"
+  },
+  {
+    "url": "https://logz.io/learn/complete-guide-elk-stack/"
+  },
+  {
+    "url": "https://github.com/Spread0x/dqlite"
+  },
+  {
+    "url": "https://cuelang.org/"
+  },
+  {
+    "url": "https://github.com/Spread0x/kops"
+  },
+  {
+    "url": "https://kubernetes.io/docs/concepts/extend-kubernetes/service-catalog/"
+  },
+  {
+    "url": "https://github.com/aws-samples/aws-cdk-examples/tree/master/typescript"
+  },
+  {
+    "url": "https://cdkworkshop.com/20-typescript/20-create-project/100-cdk-init.html"
+  },
+  {
+    "url": "https://github.com/Spread0x/dark"
+  },
+  {
+    "url": "https://github.com/Spread0x/whoami"
+  },
+  {
+    "url": "https://github.com/Spread0x/traefik"
+  },
+  {
+    "url": "https://www.joyent.com/blog/tcp-puzzlers"
+  },
+  {
+    "url": "https://www.moonchaser.io/?utm_source=techinterviewhandbook&utm_medium=referral&utm_content=website_docs_sidebar"
+  },
+  {
+    "url": "https://blog.crunchydata.com/blog/postgresql-on-linux-counting-committed-memory"
+  },
+  {
+    "url": "https://github.com/autotelic/fastify-opentelemetry"
+  },
+  {
+    "url": "https://wesbos.com/javascript"
+  },
+  {
+    "url": "https://www.narative.co/articles/the-art-of-frontend-engineering?ck_subscriber_id=1238255923"
+  },
+  {
+    "url": "https://github.com/Spread0x/snipsnap"
+  },
+  {
+    "url": "https://zfs.rent/"
+  },
+  {
+    "url": "https://sub.dom.ain.studio/?ref=producthunt"
+  },
+  {
+    "url": "https://github.com/clkao/plv8x"
+  },
+  {
+    "url": "https://tooljet.io/"
+  },
+  {
+    "url": "https://github.com/Spread0x/delegate-macro"
+  },
+  {
+    "url": "https://github.com/Spread0x/podman"
+  },
+  {
+    "url": "https://blog.bitsrc.io/the-art-of-bitmasking-ec58ab1b4c03"
+  },
+  {
+    "url": "https://stackoverflow.com/questions/18591924/how-to-use-bitmask"
+  },
+  {
+    "url": "https://codeforces.com/blog/entry/18169"
+  },
+  {
+    "url": "https://drumcoder.co.uk/blog/2010/jan/06/bitmasks-java/"
+  },
+  {
+    "url": "https://www.baeldung.com/java-bitwise-operators"
+  },
+  {
+    "url": "https://www.hellocodeclub.com/when-to-use-which-data-structure-top-6-data-structures/"
+  },
+  {
+    "url": "https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/"
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/bitwise-or-of-bitwise-and-of-all-subarrays-of-an-array/"
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/"
+  },
+  {
+    "url": "https://thoughtbot.com/blog/understanding-sql-join"
+  },
+  {
+    "url": "https://www.freecodecamp.org/news/sql-example/"
+  },
+  {
+    "url": "https://www.enterprisedb.com/blog/top-postgrsql-books-for-learning-dbas-developers"
+  },
+  {
+    "url": "https://carto.com/help/tutorials/common-sql-operations/"
+  },
+  {
+    "url": "https://www.sqlshack.com/learn-sql-how-to-write-a-complex-select-query/"
+  },
+  {
+    "url": "https://hashrocket.com/blog/posts/custom-aggregates-in-postgresql"
+  },
+  {
+    "url": "https://www.linuxtopia.org/online_books/database_guides/Practical_PostgreSQL_database/PostgreSQL_x8973_006.htm"
+  },
+  {
+    "url": "https://www.cybertec-postgresql.com/en/writing-your-own-aggregation-functions/"
+  },
+  {
+    "url": "https://www.tangramvision.com/blog/creating-postgresql-test-data-with-sql-pl-pgsql-and-python"
+  },
+  {
+    "url": "https://www.postgresqltutorial.com/postgresql-window-function/"
+  },
+  {
+    "url": "https://www.citusdata.com/blog/2018/06/01/fun-with-sql-window-functions-in-postgresql/"
+  },
+  {
+    "url": "https://thoughtbot.com/blog/postgres-window-functions"
+  },
+  {
+    "url": "http://sqlfiddle.com/#!15/076c7/12"
+  },
+  {
+    "url": "https://www.postgresqltutorial.com/postgresql-recursive-query/"
+  },
+  {
+    "url": "https://habr.com/ru/post/269497/"
+  },
+  {
+    "url": "https://www.postgresql.org/docs/9.1/queries-with.html"
+  },
+  {
+    "url": "https://www.cybertec-postgresql.com/en/postgresql-understanding-deadlocks/"
+  },
+  {
+    "url": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://oyanglul.us/meow/index.html"
+  },
+  {
+    "url": "https://blog.oyanglul.us/scala/dotty/en/gadt"
+  },
+  {
+    "url": "https://ayushm4489.medium.com/implementing-type-classes-in-scala-3-13c5ab38b91d"
+  },
+  {
+    "url": "https://gvolpe.com/blog/fsm-fs2-a-match-made-in-heaven/"
+  },
+  {
+    "url": "https://msitko.pl/blog/build-your-own-refinement-types-in-scala3.html"
+  },
+  {
+    "url": "https://www.mihaisafta.com/blog/2021/02/14/pure-functional-stream-processing-in-scala-cats-and-akka-part-2/"
+  },
+  {
+    "url": "https://www.mihaisafta.com/blog/2021/02/06/pure-functional-stream-processing-in-scala-cats-and-akka-part-1/"
+  },
+  {
+    "url": "https://www.scala-lang.org/2021/02/26/tuples-bring-generic-programming-to-scala-3.html"
+  },
+  {
+    "url": "https://blog.frankel.ch/real-world-stream-collector/"
+  },
+  {
+    "url": "https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c"
+  },
+  {
+    "url": "https://softwaremill.com/scala/"
+  },
+  {
+    "url": "https://blog.oyanglul.us/scala/dotty/en/gadt"
+  },
+  {
+    "url": "https://www.baeldung.com/scala/opaque-type-alias"
+  },
+  {
+    "url": "https://scalac.io/blog/introduction-to-programming-with-zio-functional-effects/"
+  },
+  {
+    "url": "https://www.47deg.com/blog/scala-3-typeclasses/"
+  },
+  {
+    "url": "https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/?hss_channel=tw-2301597031&utm_campaign=ZIO%20News&utm_content=153849131&utm_medium=social&utm_source=twitter"
+  },
+  {
+    "url": "https://medium.com/scala-3/intersection-and-union-types-860665b785c1"
+  },
+  {
+    "url": "https://blog.lunatech.com/posts/2021-04-28-calculating-pi-concurrently"
+  },
+  {
+    "url": "https://blog.crunchydata.com/blog/gitops-postgres-kubernetes-helm"
+  },
+  {
+    "url": "https://docs.inlets.dev/#/?id=cloud-native-tunnel"
+  },
+  {
+    "url": "https://px.dev/"
+  },
+  {
+    "url": "https://apex.sh/up/"
+  },
+  {
+    "url": "https://github.com/Spread0x/datanymizer"
+  },
+  {
+    "url": "https://github.com/Spread0x/vscode-powertools"
+  },
+  {
+    "url": "https://github.com/teenageengineering/videolab"
+  },
+  {
+    "url": "https://doc.rust-lang.ru/stable/rust-by-example/"
+  },
+  {
+    "url": "https://github.com/EvgSkv/logica/blob/main/examples/Logica_example_Covid_Analysis.ipynb"
+  },
+  {
+    "url": "https://www.usemacro.com/?ref=producthunt"
+  },
+  {
+    "url": "https://workflowy.com/hi/?2"
+  },
+  {
+    "url": "https://www.usemacro.com/?ref=producthunt"
+  },
+  {
+    "url": "https://www.routine.co/?ref=producthunt"
+  },
+  {
+    "url": "https://github.com/zhongwm/cable?utm_campaign=ZIO%20News&utm_medium=email&utm_source=Revue%20newsletter"
+  },
+  {
+    "url": "https://quolum.com/?ref=producthunt"
+  },
+  {
+    "url": "https://github.com/Spread0x/vald"
+  },
+  {
+    "url": "https://www.nocodez.com/?ref=producthunt"
+  },
+  {
+    "url": "https://anthonynsimon.com/blog/one-man-saas-architecture/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://github.com/Spread0x/ingress-nginx"
+  },
+  {
+    "url": "http://www.talkingquickly.co.uk/installing-openldap-kubernetes-helm"
+  },
+  {
+    "url": "https://github.com/Spread0x/AVX-SG"
+  },
+  {
+    "url": "https://github.com/Spread0x/gpt-neo"
+  },
+  {
+    "url": "https://github.com/egel/lsm"
+  },
+  {
+    "url": "https://github.com/Spread0x/lipgloss"
+  },
+  {
+    "url": "https://github.com/Spread0x/ctop"
+  },
+  {
+    "url": "https://www.datashake.com/scraper-api"
+  },
+  {
+    "url": "https://getoperator.co/?ref=producthunt"
+  },
+  {
+    "url": "https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://hex.tech/blog/announcing-hex?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://github.com/Spread0x/icecream"
+  },
+  {
+    "url": "https://github.com/birchb1024/frangipanni?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "url": "https://github.com/Spread0x/up"
+  },
+  {
+    "url": "https://blog.cloudflare.com/super-bot-fight-mode/"
+  },
+  {
+    "url": "https://fluca1978.github.io/2021/03/25/pgrepack.html"
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/speeding-up-recovery-and-vacuum-in-postgres-14/ba-p/2234071"
+  },
+  {
+    "url": "https://habio.app/?ref=producthunt"
+  },
+  {
+    "url": "https://1feed.app/?ref=producthunt"
+  },
+  {
+    "url": "https://www.dailyhabits.xyz/?ref=producthunt"
+  },
+  {
+    "url": "https://www.fastify.io/"
+  },
+  {
+    "url": "https://nocodeapi.com/connector/?ref=producthunt"
+  },
+  {
+    "url": "https://getyuzu.co/?ref=producthunt"
+  },
+  {
+    "url": "https://www.usemacro.com/?ref=producthunt"
+  },
+  {
+    "url": "https://github.com/Spread0x/nettu-scheduler"
+  },
+  {
+    "url": "https://stackoverflow.blog/2021/03/24/forget-moores-law-algorithms-drive-technology-forward/?cb=1&_ga=2.119275403.387731995.1616929855-542109202.1603119462"
+  },
+  {
+    "url": "https://github.com/jevakallio/git-notify"
+  },
+  {
+    "url": "https://nextjs.org/"
+  },
+  {
+    "url": "https://preview.adonisjs.com/"
+  },
+  {
+    "url": "https://nestjs.com/"
+  },
+  {
+    "url": "https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible"
+  },
+  {
+    "url": "https://vitkarpov.me/posts/what-is-system-design/"
+  },
+  {
+    "url": "https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/"
+  },
+  {
+    "url": "https://www.stackerhq.com/x?ref=producthunt"
+  },
+  {
+    "url": "https://scalapb.github.io/zio-grpc/docs/basics/"
+  },
+  {
+    "url": "https://github.com/Jacke/xsv"
+  },
+  {
+    "url": "https://llamalife.co/?ref=producthunt"
+  },
+  {
+    "url": "https://coolors.co/48a9a6-6fb7b3-83beba-96c4c0-aacbc7-bdd2cd-d1d9d4-dbdcd7-e0ded9-e4dfda"
+  },
+  {
+    "url": "http://claysql.com/"
+  },
+  {
+    "url": "https://github.com/Spread0x/dynamapath"
+  },
+  {
+    "url": "https://www.baeldung.com/scala/tagless-final-pattern"
+  },
+  {
+    "url": "https://mungingdata.com/scala/maintenance-nightmare-upgrade/"
+  },
+  {
+    "url": "https://blog.dream11engineering.com/introducing-zio-http-2b66bb036fdc"
+  },
+  {
+    "url": "https://www.datashake.com/scraper-api?ref=producthunt"
+  },
+  {
+    "url": "https://datasciencejuliahackers.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=books"
+  },
+  {
+    "url": "https://compiler.org/reason-re-nfa/src/index.html?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "url": "https://dataflowr.github.io/website/?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://www.practical-go-lessons.com/chap-1-programming-a-computer"
+  },
+  {
+    "url": "https://htdp.org/2018-01-06/Book/?utm_source=hackernewsletter&utm_medium=email&utm_term=books"
+  },
+  {
+    "url": "https://wiki.dendron.so/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/"
+  },
+  {
+    "url": "https://iximiuz.com/en/posts/computer-networking-101/"
+  },
+  {
+    "url": "https://blog.crunchydata.com/blog/get-started-with-explain-analyze"
+  },
+  {
+    "url": "https://pganalyze.com/blog/pg-query-2-0-postgres-query-parser"
+  },
+  {
+    "url": "https://app.welovenocode.com/tutorials?ref=producthunt"
+  },
+  {
+    "url": "https://github.com/Lusito/typed-signals"
+  },
+  {
+    "url": "https://github.com/hasherezade/malware_training_vol1"
+  },
+  {
+    "url": "https://tally.so/?ref=producthunt"
+  },
+  {
+    "url": "https://brevy.com/?ref=producthunt"
+  },
+  {
+    "url": "https://www.magicpattern.design/"
+  },
+  {
+    "url": "https://github.com/Jacke/outrun"
+  },
+  {
+    "url": "https://chartscss.org/charts/bar/"
+  },
+  {
+    "url": "https://www.cinetype.com/fabbrica?utm_source=hackernewsletter&utm_medium=email&utm_term=design"
+  },
+  {
+    "url": "https://github.com/TomasMikula/libretto"
+  },
+  {
+    "url": "https://github.com/metarank/cfor"
+  },
+  {
+    "url": "https://baserow.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "url": "https://beta.shape.so/"
+  },
+  {
+    "url": "https://github.com/terkelg/prompts"
+  },
+  {
+    "url": "http://www.simplecpudesign.com/simple_cpu_v1/"
+  },
+  {
+    "url": "https://developers.google.com/youtube/v3/quickstart/nodejs"
+  },
+  {
+    "url": "https://www.npmjs.com/package/youtube-api"
+  },
+  {
+    "url": "https://github.com/Jacke/ytube-api"
+  },
+  {
+    "url": "https://developers.google.com/youtube/v3/quickstart/nodejs"
+  },
+  {
+    "url": "https://www.devdungeon.com/content/arduino-cli-tutorial"
+  },
+  {
+    "url": "https://blog.softwaremill.com/tapir-serverless-a-proof-of-concept-6b8c9de4d396"
+  },
+  {
+    "url": "https://github.com/Spread0x/rich"
+  },
+  {
+    "url": "https://github.com/okbob/pspg"
+  },
+  {
+    "url": "https://b-peng.blogspot.com/2021/02/clustering-modes-in-pgpool.html"
+  },
+  {
+    "url": "https://github.com/guardrail-dev/guardrail-sample-sbt-http4s-zio/blob/007b3f81009a09fa61ad69ac42c9baf42ea5d343/src/main/scala/Launch.scala?utm_campaign=ZIO%20News&utm_medium=email&utm_source=Revue%20newsletter#L17-L85"
+  },
+  {
+    "url": "https://github.com/Spread0x/zio-magic"
+  },
+  {
+    "url": "https://ghostdogpr.github.io/caliban/"
+  },
+  {
+    "url": "https://github.com/Jacke/graphtage"
+  },
+  {
+    "url": "https://github.com/jart/cosmopolitan"
+  },
+  {
+    "url": "https://github.com/httpie/httpie"
+  },
+  {
+    "url": "https://github.com/georgem3/medium-marks"
+  },
+  {
+    "url": "http://pgbadger.darold.net/"
+  },
+  {
+    "url": "https://pgcenter.org/"
+  },
+  {
+    "url": "https://github.com/frgomes/scala-ringbuffer"
+  },
+  {
+    "url": "https://github.com/real-logic/simple-binary-encoding"
+  },
+  {
+    "url": "https://k8s.af/"
+  },
+  {
+    "url": "https://typesense.org/"
+  },
+  {
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
+  },
+  {
+    "url": "https://github.com/ducaale/xh?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://github.com/JonnyBurger/remotion"
+  },
+  {
+    "url": "https://cs193p.sites.stanford.edu/?utm_source=hackernewsletter&utm_medium=email&utm_term=watching"
+  },
+  {
+    "url": "https://github.com/Spread0x/react-use"
+  },
+  {
+    "url": "https://github.com/hashicorp/terraform-provider-aws"
+  },
+  {
+    "url": "https://meetmaya.world/?ref=producthunt"
+  },
+  {
+    "url": "https://blog.jooq.org/2021/02/08/implementing-a-generic-reduce-aggregate-function-with-sql/"
+  },
+  {
+    "url": "https://github.com/likr-sandbox/rust-webgl2-example/blob/master/src/main.rs"
+  },
+  {
+    "url": "https://scala.monster/train-station-tofu/"
+  },
+  {
+    "url": "https://repl.it/teams-for-education"
+  },
+  {
+    "url": "https://github.com/zdharma/zui/"
+  },
+  {
+    "url": "http://pgbadger.darold.net/"
+  },
+  {
+    "url": "https://github.com/Spread0x/pgcenter"
+  },
+  {
+    "url": "https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6"
+  },
+  {
+    "url": "https://automagically.cloud/wait"
+  },
+  {
+    "url": "https://github.com/tpolecat/natchez-http4s"
+  },
+  {
+    "url": "https://github.com/vercel/release"
+  },
+  {
+    "url": "https://github.com/clog-tool/clog-cli"
+  },
+  {
+    "url": "https://github.com/release-it/release-it"
+  },
+  {
+    "url": "https://zaaack.github.io/foy/"
+  },
+  {
+    "url": "https://github.com/Jacke/newsboat"
+  },
+  {
+    "url": "https://superpowered.me/?ref=producthunt#/"
+  },
+  {
+    "url": "https://ponicode.com/product-hunt?ref=producthunt"
+  },
+  {
+    "url": "http://pgbadger.darold.net/"
+  },
+  {
+    "url": "https://github.com/dalibo/pg_activity"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=12318449"
+  },
+  {
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/6lmkp9/best_ways_to_generate_passive_income_as_a/"
+  },
+  {
+    "url": "https://github.com/jdegoes/functional-data-modeling/tree/master/src/main/scala/fdm"
+  },
+  {
+    "url": "https://github.com/Spread0x/zio-config"
+  },
+  {
+    "url": "https://nocomplexity.com/documents/arplaybook/index.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books"
+  },
+  {
+    "url": "https://www.producthunt.com/posts/data-fetcher-for-airtable?utm_campaign=7653_2020-12-15&utm_medium=email&utm_source=Product+Hunt&utm_term=featured"
+  },
+  {
+    "url": "https://github.com/Spread0x/wasp"
+  },
+  {
+    "url": "https://www.archbee.io/"
+  },
+  {
+    "url": "https://www.scala-lang.org/2020/11/06/explicit-term-inference-in-scala-3.html"
+  },
+  {
+    "url": "https://bszwej.medium.com/domain-driven-design-with-fp-in-scala-21b557f94aa5"
+  },
+  {
+    "url": "https://alexn.org/blog/2020/11/15/managing-database-migrations-scala.html"
+  },
+  {
+    "url": "https://blog.softwaremill.com/functional-pancakes-cf70023f0dcb"
+  },
+  {
+    "url": "https://nnethercote.github.io/perf-book/heap-allocations.html"
+  },
+  {
+    "url": "http://amortizedcost.net/ui-desing-for-software-developer-part-1/?utm_source=hackernewsletter&utm_medium=email&utm_term=design"
+  },
+  {
+    "url": "https://pabloinsente.github.io/intro-linear-algebra?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://postgresqlco.nf/en/doc/param/?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://tomcam.github.io/postgres/?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://festapi.io/?ref=producthunt"
+  },
+  {
+    "url": "https://festapi.io/?ref=producthunt"
+  },
+  {
+    "url": "https://www.choiceiq.me/?ref=producthunt"
+  },
+  {
+    "url": "https://www.pachyderm.com/?ref=owwly"
+  },
+  {
+    "url": "https://owwly.com/products/all?ref=producthunt"
+  },
+  {
+    "url": "https://vc.ru/services/176757-raskryt-moshch-dokumentov-sozdatel-formata-xml-predlagaet-razobratsya-v-nestrukturirovannyh-dannyh-s-pomoshchyu-ii"
+  },
+  {
+    "url": "https://n8n.io/"
+  },
+  {
+    "url": "https://www.craft.do/"
+  },
+  {
+    "url": "https://humanloop.com/?ref=producthunt"
+  },
+  {
+    "url": "https://get.flatfile.io/producthunt-portal?ref=newsletter&utm_source=partner&utm_medium=email&utm_campaign=producthunt-email-newsletter_q4-2020-portal-promotion-day-5-newsletter-promo&utm_content=email-promotion&utm_term=producthunt-day-5"
+  },
+  {
+    "url": "https://quarkly.io/"
+  },
+  {
+    "url": "https://spline.design/?ref=producthunt"
+  },
+  {
+    "url": "https://microlink.io/?ref=producthunt"
+  },
+  {
+    "url": "https://scalacenter.github.io/scala-3-migration-guide/docs/tutorials/sbt-migration.html"
+  },
+  {
+    "url": "https://javascript.info/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://alexn.org/blog/2020/11/15/managing-database-migrations-scala.html?pk_campaign=reddit&pk_kwd=link"
+  },
+  {
+    "url": "https://alexn.org/blog/2020/11/17/best-practice-for-ordering-comparable.html"
+  },
+  {
+    "url": "https://alexn.org/blog/2020/11/12/i-like-option-get.html"
+  },
+  {
+    "url": "https://alexn.org/blog/2018/05/06/bifunctor-io.html"
+  },
+  {
+    "url": "https://alexn.org/blog/2017/10/15/functional-programming.html"
+  },
+  {
+    "url": "https://docs.scala-lang.org/overviews/reflection/typetags-manifests.html"
+  },
+  {
+    "url": "https://habr.com/ru/company/mobileup/blog/456086/"
+  },
+  {
+    "url": "https://designcode.io/tutorials"
+  },
+  {
+    "url": "https://developer.apple.com/documentation/apple_silicon/implementing_drivers_system_extensions_and_kexts"
+  },
+  {
+    "url": "https://developer.apple.com/documentation/apple_silicon/installing_a_custom_kernel_extension"
+  },
+  {
+    "url": "https://developer.apple.com/documentation/apple_silicon/debugging_a_custom_kernel_extension"
+  },
+  {
+    "url": "https://developer.apple.com/documentation/xcode/porting_your_macos_apps_to_apple_silicon"
+  },
+  {
+    "url": "https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos"
+  },
+  {
+    "url": "https://developer.apple.com/documentation/widgetkit/creating-a-widget-extension"
+  },
+  {
+    "url": "https://matteomanferdini.com/ios-storyboards-xcode/"
+  },
+  {
+    "url": "https://medium.com/better-programming/creating-ios-apps-without-storyboards-42a63c50756f"
+  },
+  {
+    "url": "https://github.com/SwiftGen/SwiftGen"
+  },
+  {
+    "url": "https://github.com/AliSoftware/Reusable"
+  },
+  {
+    "url": "https://www.paintcodeapp.com/documentation"
+  },
+  {
+    "url": "http://snapkit.io/docs/"
+  },
+  {
+    "url": "https://blog.bobthedeveloper.io/why-i-dont-use-storyboard-fe14a1a99f58"
+  },
+  {
+    "url": "https://github.com/novemberfiveco/xib2Storyboard"
+  },
+  {
+    "url": "https://github.com/IBCodeKit/IBKit"
+  },
+  {
+    "url": "https://github.com/NathanE73/Blackboard"
+  },
+  {
+    "url": "https://github.com/aidinahmadian/RestaurantAppUI"
+  },
+  {
+    "url": "https://snapkit.io/docs/"
+  },
+  {
+    "url": "https://matteomanferdini.com/ios-storyboards-xcode/"
+  },
+  {
+    "url": "https://mobilejazz.com/blog/storyboards-xibs-best-practices/"
+  },
+  {
+    "url": "https://github.com/nilsen340/ios-framework-with-storyboard"
+  },
+  {
+    "url": "https://interviews.school/"
+  },
+  {
+    "url": "https://guides.codepath.com/ios/Tab-Bar-Quickstart#:~:text=To%20add%20a%20tab,%20first,update%20with%20a%20new%20tab"
+  },
+  {
+    "url": "https://guides.codepath.com/ios/Animation"
+  },
+  {
+    "url": "https://guides.codepath.com/ios"
+  },
+  {
+    "url": "https://habr.com/ru/post/485548/"
+  },
+  {
+    "url": "https://github.com/lazerwalker/storyboard-iOS"
+  },
+  {
+    "url": "https://github.com/Swinject/Swinject"
+  },
+  {
+    "url": "https://medium.com/@code_cookies/swiftui-embed-swiftui-view-into-the-storyboard-a6fc96e7a0a1"
+  },
+  {
+    "url": "https://sarunw.com/posts/better-dependency-injection-for-storyboards-in-ios13/"
+  },
+  {
+    "url": "https://www.hackingwithswift.com/example-code/uikit/how-to-use-dependency-injection-with-storyboards"
+  },
+  {
+    "url": "https://github.com/nlohmann/json"
+  },
+  {
+    "url": "https://github.com/apache/shardingsphere"
+  },
+  {
+    "url": "https://dancres.github.io/Pages/?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://github.com/dhanus/lsm-tree"
+  },
+  {
+    "url": "https://github.com/aronszanto/sLSM-Tree"
+  },
+  {
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/6zaykp/best_way_to_learn_tensorflow/"
+  },
+  {
+    "url": "https://www.quora.com/What-is-the-most-efficient-way-to-learn-TensorFlow"
+  },
+  {
+    "url": "https://github.com/kovacshuni/zio-http4s-example"
+  },
+  {
+    "url": "https://vigoo.github.io/prox/"
+  },
+  {
+    "url": "https://squidarth.com/scala/programming/2020/10/04/scala-mocks.html"
+  },
+  {
+    "url": "https://github.com/propensive/contextual"
+  },
+  {
+    "url": "http://epfldata.github.io/squid/home.html"
+  },
+  {
+    "url": "https://zio.github.io/zio-logging/docs/overview/overview_index.html"
+  },
+  {
+    "url": "https://github.com/florinpop17/app-ideas"
+  },
+  {
+    "url": "https://github.com/TheAlgorithms/Java/blob/master/Searches/JumpSearch.java"
+  },
+  {
+    "url": "https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning"
+  },
+  {
+    "url": "https://www.zionomicon.com/"
+  },
+  {
+    "url": "https://scala.zone/courses/scala-beginner/foundations/introduction"
+  },
+  {
+    "url": "https://github.com/typelevel/cats/blob/76edb1094331e610e4913ad3c0e393e066bbf373/core/src/main/scala/cats/Bifunctor.scala"
+  },
+  {
+    "url": "https://github.com/pac4j/http4s-pac4j"
+  },
+  {
+    "url": "https://github.com/TimPigden/zio-http4s-examples"
+  },
+  {
+    "url": "https://github.com/alexarchambault/data-class"
+  },
+  {
+    "url": "https://tpolecat.github.io/skunk/"
+  },
+  {
+    "url": "https://github.com/DevInsideYou/tagless-final-error-handling/commit/59aa85ef8195ff38a5fd183d084a4c56aa8e1cf3"
+  },
+  {
+    "url": "https://aws.github.io/copilot-cli/docs/getting-started/"
+  },
+  {
+    "url": "https://stackoverflow.com/questions/43900674/understanding-the-aux-pattern-in-scala-type-system"
+  },
+  {
+    "url": "https://blog.oyanglul.us/scala/dotty/en/functionk"
+  },
+  {
+    "url": "https://danielwestheide.com/blog/the-neophytes-guide-to-scala-part-13-path-dependent-types/"
+  },
+  {
+    "url": "http://ktoso.github.io/scala-types-of-types/#path-dependent-type"
+  },
+  {
+    "url": "https://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html"
+  },
+  {
+    "url": "https://contributors.scala-lang.org/t/pre-sip-using-underscores-for-type-lambdas/2564"
+  },
+  {
+    "url": "https://github.com/Spread0x/pure-sh-bible"
+  },
+  {
+    "url": "https://github.com/Spread0x/lit"
+  },
+  {
+    "url": "https://github.com/EmbarkStudios/rust-gpu"
+  },
+  {
+    "url": "https://wiki.alopex.li/RustStarterKit2020?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://github.com/Spread0x/blurhash"
+  },
+  {
+    "url": "http://www.javassist.org/tutorial/tutorial.html"
+  },
+  {
+    "url": "https://github.com/Spread0x/vscode-debug-visualizer"
+  },
+  {
+    "url": "https://github.com/Jacke/sad"
+  },
+  {
+    "url": "https://github.com/real-logic/aeron"
+  },
+  {
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "url": "https://github.com/Jacke/Python-programming-exercises"
+  },
+  {
+    "url": "https://github.com/Jacke/ultimate-go"
+  },
+  {
+    "url": "https://github.com/Spread0x/mern-course-bootcamp"
+  },
+  {
+    "url": "https://github.com/Jacke/learn-python"
+  },
+  {
+    "url": "https://github.com/Jacke/Python-programming-exercises"
+  },
+  {
+    "url": "https://jerry-git.github.io/learn-python3/notebooks/beginner/html/exceptions.html"
+  },
+  {
+    "url": "https://carpe.github.io/scalambda/docs/"
+  },
+  {
+    "url": "https://github.com/vigoo/zio-aws"
+  },
+  {
+    "url": "https://github.com/Jacke/dotty-reflection"
+  },
+  {
+    "url": "https://fs2.io/"
+  },
+  {
+    "url": "https://github.com/Shastick/zio-prefetcher"
+  },
+  {
+    "url": "https://github.com/jatcwang/doobieroll/tree/master/modules/core/src/main/scala/doobieroll"
+  },
+  {
+    "url": "https://nocomplexity.com/documents/arplaybook/businessarchitecture.html"
+  },
+  {
+    "url": "https://builderbook.org/book?utm_source=hackernewsletter&utm_medium=email&utm_term=books"
+  },
+  {
+    "url": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/?utm_source=hackernewsletter&utm_medium=email&utm_term=books"
+  },
+  {
+    "url": "https://graphicallinearalgebra.net/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn"
+  },
+  {
+    "url": "https://github.com/rust-shell-script/rust_cmd_lib?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://thesephist.com/posts/tools/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "http://book.realworldhaskell.org/read/using-typeclasses.html"
+  },
+  {
+    "url": "https://github.com/ekmett/rounded/blob/master/test.hs"
+  },
+  {
+    "url": "https://github.com/slouc/concurrency-in-scala-with-ce"
+  },
+  {
+    "url": "https://blog.shipreq.com/post/scala_react_and_ssr_part_1"
+  },
+  {
+    "url": "https://about.chatroulette.com/posts/algebraic-data-types-2/"
+  },
+  {
+    "url": "https://rockthejvm.com/blog/216771/type-level-programming-3"
+  },
+  {
+    "url": "https://link.springer.com/chapter/10.1007%2F3540543961_7"
+  },
+  {
+    "url": "https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0"
+  },
+  {
+    "url": "https://medium.com/@oleksandra_a/zio-chunk-fast-pure-alternative-to-arrays-d51cd8a443a9"
+  },
+  {
+    "url": "https://github.com/Spread0x/zio-shield"
+  },
+  {
+    "url": "https://github.com/Spread0x/zio-prelude"
+  },
+  {
+    "url": "https://github.com/Spread0x/crush"
+  },
+  {
+    "url": "https://zio.surge.sh/"
+  },
+  {
+    "url": "https://about.chatroulette.com/posts/optics/"
+  },
+  {
+    "url": "https://github.com/Spread0x/trace4cats?organization=Spread0x&organization=Spread0x"
+  },
+  {
+    "url": "https://alexn.org/blog/2020/08/03/on-error-retry-loop.html"
+  },
+  {
+    "url": "https://github.com/Spread0x/trace4cats?organization=Spread0x&organization=Spread0x"
+  },
+  {
+    "url": "https://kubernetes.io/docs/setup/learning-environment/minikube/"
+  },
+  {
+    "url": "https://itnext.io/from-scala-app-to-kubernetes-pod-d67e0cd6bfaf"
+  },
+  {
+    "url": "https://eed3si9n.com/parallel-cross-building-sandwich"
+  },
+  {
+    "url": "https://github.com/timescale/tobs"
+  },
+  {
+    "url": "https://kubernetes.io/docs/concepts/services-networking/service/"
+  },
+  {
+    "url": "https://dubbo.incubator.apache.org/en-us/index.html"
+  },
+  {
+    "url": "https://nacos.io/en-us/index.html"
+  },
+  {
+    "url": "https://github.com/Spread0x/version-checker"
+  },
+  {
+    "url": "https://github.com/Spread0x/kubernetes-client"
+  },
+  {
+    "url": "https://grpc.io/blog/coreos/"
+  },
+  {
+    "url": "https://github.com/Spread0x/skuber?organization=Spread0x&organization=Spread0x"
+  },
+  {
+    "url": "https://github.com/rancher/k3os/blob/master/README.md#quick-start"
+  },
+  {
+    "url": "https://k3s.io/"
+  },
+  {
+    "url": "https://www.toptal.com/scala/scale-your-scala-application-with-kubernetes"
+  },
+  {
+    "url": "https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/"
+  },
+  {
+    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+  },
+  {
+    "url": "https://github.com/foursquare/scala-zookeeper-client"
+  },
+  {
+    "url": "https://github.com/raviksharma/bartosz-basics-of-haskell"
+  },
+  {
+    "url": "https://ihp.digitallyinduced.com/?rdt_cid=3136136681770556669"
+  },
+  {
+    "url": "https://github.com/antonmedv/finder"
+  },
+  {
+    "url": "https://leonardofaria.net/2020/07/18/using-flexbox-and-text-ellipsis-together/"
+  },
+  {
+    "url": "http://apps.workflower.fi/vocabs/css/en#comment"
+  },
+  {
+    "url": "https://github.com/logzio/docker-collector-metrics"
+  },
+  {
+    "url": "https://www.freecodecamp.org/news/the-docker-handbook/"
+  },
+  {
+    "url": "https://semgrep.live/"
+  },
+  {
+    "url": "https://github.com/Spread0x/sager"
+  },
+  {
+    "url": "https://github.com/lampepfl/dotty/pull/5601/files"
+  },
+  {
+    "url": "https://github.com/Jacke/lunatech-scala-2-to-scala3-course"
+  },
+  {
+    "url": "https://github.com/github/super-linter"
+  },
+  {
+    "url": "https://github.com/Spread0x/droste"
+  },
+  {
+    "url": "https://github.com/precog/matryoshka"
+  },
+  {
+    "url": "https://docs.tofu.tf/docs/errors"
+  },
+  {
+    "url": "https://blog.oyanglul.us/scala/dotty/en/first-class-types#org2f36b89"
+  },
+  {
+    "url": "https://stackoverflow.com/questions/43900674/understanding-the-aux-pattern-in-scala-type-system"
+  },
+  {
+    "url": "https://stackoverflow.com/questions/43900674/understanding-the-aux-pattern-in-scala-type-system"
+  },
+  {
+    "url": "https://tsdx.io/"
+  },
+  {
+    "url": "https://blog.logrocket.com/how-to-use-svgs-in-react/"
+  },
+  {
+    "url": "https://juliano-alves.com/2020/06/15/streaming-all-the-way-zio-doobie-quill-http4s-fs2/"
+  },
+  {
+    "url": "https://medium.com/@wiemzin/zio-with-http4s-and-doobie-952fba51d089"
+  },
+  {
+    "url": "https://github.com/Jacke/lunatech-scala-2-to-scala3-course"
+  },
+  {
+    "url": "https://blog.fp-tower.com/2020-01-27-introducing-error-reporting-in-optics/"
+  },
+  {
+    "url": "https://blog.oyanglul.us/scala/dotty/en/dependent-types"
+  },
+  {
+    "url": "https://github.com/evolution-gaming/scache"
+  },
+  {
+    "url": "https://github.com/profunktor/redis4cats/blob/master/README.md"
+  },
+  {
+    "url": "https://github.com/Spread0x/fs2-mail"
+  },
+  {
+    "url": "https://github.com/Spread0x/zio-email"
+  },
+  {
+    "url": "https://javadoc.io/static/com.thoughtworks.dsl/domains-cats_2.12/2.0.0+19-3a0efc97/com/thoughtworks/dsl/domains/cats$.html"
+  },
+  {
+    "url": "https://github.com/scalalandio/chimney"
+  },
+  {
+    "url": "https://github.com/ScalaConsultants/zio-slick-interop"
+  },
+  {
+    "url": "https://disneystreaming.github.io/weaver-test/docs/common_usage"
+  },
+  {
+    "url": "https://severalnines.com/resources/database-management-tutorials/postgresql-load-balancing-haproxy"
+  },
+  {
+    "url": "https://www.cybertec-postgresql.com/en/b-tree-index-deduplication/"
+  },
+  {
+    "url": "https://pawelurbanek.com/heroku-postgresql-s3-backup"
+  },
+  {
+    "url": "https://github.com/pramsey/pgsql-http/"
+  },
+  {
+    "url": "https://github.com/ankane/pghero"
+  },
+  {
+    "url": "https://github.com/sqlancer/sqlancer"
+  },
+  {
+    "url": "https://medium.com/@ruurtjan/understanding-kafka-with-factorio-74e8fc9bf181"
+  },
+  {
+    "url": "https://udevs.com/"
+  },
+  {
+    "url": "https://mesto.co/"
+  },
+  {
+    "url": "http://ekzhu.com/datasketch/index.html"
+  },
+  {
+    "url": "https://github.com/Jacke/data-scientist-roadmap"
+  },
+  {
+    "url": "https://blog.tensorflow.org/2020/03/introducing-model-garden-for-tensorflow-2.html"
+  },
+  {
+    "url": "http://ekzhu.com/datasketch/"
+  },
+  {
+    "url": "https://github.com/Jacke/olivia"
+  },
+  {
+    "url": "https://github.com/horovod/horovod"
+  },
+  {
+    "url": "https://d2l.ai/"
+  },
+  {
+    "url": "https://github.com/Jacke/Python-Mathematics-Handbook/blob/master/02-Linear-algebra-with-Numpy.ipynb"
+  },
+  {
+    "url": "https://nj4pfcg8.gradient.paperspace.com/"
+  },
+  {
+    "url": "https://typeclasses.com/"
+  },
+  {
+    "url": "https://github.com/imager-io/ffmpeg-dev-rs"
+  },
+  {
+    "url": "https://github.com/YoshiyukiKato/grpc-mock"
+  },
+  {
+    "url": "https://www.tensorflow.org/tutorials"
+  },
+  {
+    "url": "https://www.paperspace.com/account/login?redirect=%2Fconsole%2Fprojects%2Fpr8xg31vf%2Fbuilder"
+  },
+  {
+    "url": "https://github.com/Jacke/scala-to-dotty"
+  },
+  {
+    "url": "https://linuxacademy.com/course/deploying-to-aws-with-ansible-and-terraform/"
+  },
+  {
+    "url": "https://docs.python-guide.org/writing/structure/"
+  },
+  {
+    "url": "https://egghead.io/lessons/rust-variables-and-mutability-in-rust"
+  },
+  {
+    "url": "https://egghead.io/lessons/egghead-overview-of-automate-everything?pl=john-lindquist-s-ultra-advanced-yak-shaved-lesson-creation-process-dd3b"
+  },
+  {
+    "url": "https://egghead.io/lessons/git-change-a-commit-message-that-hasn-t-been-pushed-yet"
+  },
+  {
+    "url": "https://github.com/Spread0x/cats-circuit-breaker?organization=Spread0x&organization=Spread0x"
+  },
+  {
+    "url": "https://github.com/Shopify/semian/blob/master/README.md#bulkheading"
+  },
+  {
+    "url": "https://github.com/monix/monix/blob/master/monix-catnap/shared/src/main/scala/monix/catnap/CircuitBreaker.scala"
+  },
+  {
+    "url": "https://blog.paperspace.com/fast-ai-2020/"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=24901244"
+  },
+  {
+    "url": "https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/UsingDynamicLibraries.html"
+  },
+  {
+    "url": "https://gist.github.com/knightsc/45edfc4903a9d2fa9f5905f60b02ce5a"
+  },
+  {
+    "url": "http://thomasfinch.me/blog/2015/07/24/Hooking-C-Functions-At-Runtime.html"
+  },
+  {
+    "url": "https://habr.com/ru/company/badoo/blog/493856/"
+  },
+  {
+    "url": "https://thealgorithms.github.io/C-Plus-Plus/d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45"
+  },
+  {
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7"
+  },
+  {
+    "url": "https://www.hackerrank.com/challenges/minimum-time-required/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search"
+  },
+  {
+    "url": "https://www.hackerrank.com/interview/interview-preparation-kit/miscellaneous/challenges"
+  },
+  {
+    "url": "https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0"
+  },
+  {
+    "url": "https://www.kaggle.com/maksimeren/covid-19-literature-clustering"
+  },
+  {
+    "url": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "url": "https://github.com/gabeschamberg/context-tree-weighting"
+  },
+  {
+    "url": "https://github.com/fumin/ctw"
+  },
+  {
+    "url": "https://github.com/Jacke/Basic-Mathematics-for-Machine-Learning/blob/master/Cheat%20Sheet%20Suggested%20by%20Siraj%20Raval/Calculus%20Cheat%20Sheet.pdf"
+  },
+  {
+    "url": "https://jupyter.brynmawr.edu/services/public/dblank/CS206%20Data%20Structures/2017-Spring/Notebooks/Sorting.ipynb"
+  },
+  {
+    "url": "https://developers.google.com/machine-learning/guides/rules-of-ml"
+  },
+  {
+    "url": "https://howtoproduct.io/in-30-min"
+  },
+  {
+    "url": "https://www.deeplearning.ai/machine-learning-yearning/"
+  },
+  {
+    "url": "https://ziverge.com/blog/introduction-to-zio-kafka/"
+  },
+  {
+    "url": "https://juliano-alves.com/2020/04/20/zio-http4s-a-simple-api-client/"
+  },
+  {
+    "url": "https://juliano-alves.com/2020/04/06/shapeless-a-real-world-use-case/"
+  },
+  {
+    "url": "https://www.paperspace.com/account/login?redirect=%2Fconsole%2Fprojects%2Fpr8xg31vf%2Fbuilder"
+  },
+  {
+    "url": "https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b64"
+  },
+  {
+    "url": "https://github.com/Spread0x/Prometheus-Basics"
+  },
+  {
+    "url": "https://github.com/fthomas/crjdt"
+  },
+  {
+    "url": "https://github.com/machinomy/crdt"
+  },
+  {
+    "url": "https://github.com/theiterators/sealed-monad"
+  },
+  {
+    "url": "https://blog.softwaremill.com/time-traveling-in-tests-with-cats-effect-b22084f6a89"
+  },
+  {
+    "url": "https://openai.com/blog/openai-api/"
+  },
+  {
+    "url": "https://docs.passbase.com/web-reauthentication/react"
+  },
+  {
+    "url": "https://microacquire.com/?ref=producthunt"
+  },
+  {
+    "url": "https://carpe.github.io/scalambda/docs/"
+  },
+  {
+    "url": "https://github.com/rancher/k3os/blob/master/README.md#quick-start"
+  },
+  {
+    "url": "http://epfldata.github.io/squid/home.html"
+  },
+  {
+    "url": "https://github.com/rancher/k3os/blob/master/README.md#quick-start"
+  },
+  {
+    "url": "https://github.com/charmbracelet/bubbletea"
+  },
+  {
+    "url": "https://www.npmjs.com/package/cli-table3"
+  },
+  {
+    "url": "https://www.cypress.io/"
+  },
+  {
+    "url": "https://github.com/robertdavidgraham/masscan"
+  },
+  {
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "url": "https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html"
+  },
+  {
+    "url": "https://programmingwithmosh.com/react/5-react-best-practices-to-learn-in-2020/"
+  },
+  {
+    "url": "https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/"
+  },
+  {
+    "url": "https://github.com/gothinkster/react-redux-realworld-example-app"
+  },
+  {
+    "url": "https://github.com/mzabriskie/react-example"
+  },
+  {
+    "url": "https://github.com/microsoft/vscode-react-sample"
+  },
+  {
+    "url": "https://docs.skypack.dev/skypack-cdn/plugins/create-react-app"
+  },
+  {
+    "url": "https://medium.com/jspoint/typescript-type-declaration-files-4b29077c43"
+  },
+  {
+    "url": "https://www.joshwcomeau.com/operator-lookup?match=unsigned-right-shift"
+  },
+  {
+    "url": "https://nannou.cc/?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://servr.app/?ref=producthunt"
+  },
+  {
+    "url": "http://nandgame.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://timothycrosley.github.io/quickpython/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://www.protondb.com/"
+  },
+  {
+    "url": "https://lock.cmpxchg8b.com/spreadsheet.html?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Siteswap?utm_source=hackernewsletter&utm_medium=email&utm_term=learn"
+  },
+  {
+    "url": "https://clig.dev/?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://about.sourcegraph.com/"
+  },
+  {
+    "url": "https://training.saucelabs.com/?utm_source=referral&utm_medium=youtube&utm_campaign=114&utm_term=Training-YouTube"
+  },
+  {
+    "url": "https://thevaluable.dev/vim-advanced/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://www.minervaknows.com/#themes-section"
+  },
+  {
+    "url": "https://tldrthis.com/?ref=producthunt"
+  },
+  {
+    "url": "https://flowchart.fun/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://practicalpython.yasoob.me/?utm_source=hackernewsletter&utm_medium=email&utm_term=books"
+  },
+  {
+    "url": "https://smoothstep.io/"
+  },
+  {
+    "url": "https://nodes.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://devdojo.com/wave#demo"
+  },
+  {
+    "url": "https://unixism.net/2020/04/io-uring-by-example-article-series/"
+  },
+  {
+    "url": "https://github.com/ossf/allstar"
+  },
+  {
+    "url": "https://workers.cloudflare.com/"
+  }
+]

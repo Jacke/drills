@@ -1,0 +1,575 @@
+[
+  {
+    "url": "https://github.com/changkun/modern-cpp-tutorial"
+  },
+  {
+    "url": "https://github.com/chrislusf/seaweedfs"
+  },
+  {
+    "url": "https://vitess.io/docs/"
+  },
+  {
+    "url": "https://arrow.apache.org/"
+  },
+  {
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java"
+  },
+  {
+    "url": "https://github.com/Spread0x/bit-1"
+  },
+  {
+    "url": "https://www.baeldung.com/java-ring-buffer"
+  },
+  {
+    "url": "https://martinfowler.com/articles/lmax.html"
+  },
+  {
+    "url": "https://habr.com/ru/post/230239/"
+  },
+  {
+    "url": "https://habr.com/ru/company/jugru/blog/418639/"
+  },
+  {
+    "url": "https://habr.com/ru/company/piter/blog/266103/"
+  },
+  {
+    "url": "https://gohustl.co/?ref=producthunt"
+  },
+  {
+    "url": "https://vc.ru/video/165890-stiv-dzhobs-v-shortah-rasskazyvaet-o-suti-marketinga"
+  },
+  {
+    "url": "https://bruno-simon.com/"
+  },
+  {
+    "url": "https://0xax.gitbooks.io/linux-insides/content/Theory/linux-theory-1.html"
+  },
+  {
+    "url": "https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/"
+  },
+  {
+    "url": "https://www.kalzumeus.com/2012/01/23/salary-negotiation/"
+  },
+  {
+    "url": "https://agrml.medium.com/%D0%B1%D1%8B%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%BC-dc10d1781661"
+  },
+  {
+    "url": "https://matt-rickard.com/reflections-on-10-000-hours-of-programming/?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://matt-rickard.com/non-consensus-right/"
+  },
+  {
+    "url": "https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm?utm_source=hackernewsletter&utm_medium=email&utm_term=working"
+  },
+  {
+    "url": "https://kubernetes.io/blog/2021/08/11/kubernetes-1-22-feature-memory-manager-moves-to-beta/"
+  },
+  {
+    "url": "http://www.faqs.org/docs/linux_network/x-087-2-issues.routing.html"
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/ip-addressing-classless-addressing/?ref=rp"
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing/?ref=rp"
+  },
+  {
+    "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80_DNS"
+  },
+  {
+    "url": "https://vc.ru/life/278977-otpishites-ot-novostey-perestante-volnovatsya-neskolko-pravil-gigieny-dlya-informacionnogo-veka"
+  },
+  {
+    "url": "https://about.gitlab.com/blog/2019/02/28/why-we-pay-local-rates/"
+  },
+  {
+    "url": "https://github.com/zio/zio-config/pull/583?utm_campaign=ZIO%20News&utm_medium=email&utm_source=Revue%20newsletter"
+  },
+  {
+    "url": "https://github.com/zio/zio-config/pull/574?utm_campaign=ZIO%20News&utm_medium=email&utm_source=Revue%20newsletter"
+  },
+  {
+    "url": "https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/"
+  },
+  {
+    "url": "https://twitter.com/eed3si9n/status/1424457219576373249?s=12"
+  },
+  {
+    "url": "https://springframework.guru/gang-of-four-design-patterns/"
+  },
+  {
+    "url": "http://www.blackwasp.co.uk/gofpatterns.aspx"
+  },
+  {
+    "url": "https://www.shipa.io/innovation/appops-creating-a-new-category/"
+  },
+  {
+    "url": "https://github.com/mehrdadrad/mylg"
+  },
+  {
+    "url": "https://bytesofgigabytes.com/web/how-to-install-snmp-agent-on-ec2-instance-aws/"
+  },
+  {
+    "url": "https://collectd.org/wiki/index.php/Plugin:SNMP"
+  },
+  {
+    "url": "https://www.section.io/engineering-education/network-management-with-cdp-lldp/"
+  },
+  {
+    "url": "https://github.com/pyhackertarget/hackertarget"
+  },
+  {
+    "url": "https://github.com/toorajtaraz/skywalker"
+  },
+  {
+    "url": "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"
+  },
+  {
+    "url": "https://microservices.io/patterns/data/cqrs.html"
+  },
+  {
+    "url": "https://www.weave.works/blog/kubernetes-beginners-guide/"
+  },
+  {
+    "url": "https://www.baeldung.com/scala/scalacache"
+  },
+  {
+    "url": "https://scalameta.org/metals/blog/2020/11/10/lithium/"
+  },
+  {
+    "url": "https://github.com/thehonesttech/zio-entity"
+  },
+  {
+    "url": "https://docs.peewee-orm.com/en/latest/peewee/playhouse.html"
+  },
+  {
+    "url": "https://docs.peewee-orm.com/en/latest/peewee/quickstart.html#quickstart"
+  },
+  {
+    "url": "https://dbdocs.io/"
+  },
+  {
+    "url": "https://github.com/dhamaniasad/awesome-postgres#tutorials"
+  },
+  {
+    "url": "https://github.com/seni1/Data-Engineer-Nanodegree-Projects-Udacity"
+  },
+  {
+    "url": "https://www.udacity.com/course/data-engineer-nanodegree--nd027"
+  },
+  {
+    "url": "https://stackoverflow.com/questions/1778673/postgresql-for-olap"
+  },
+  {
+    "url": "https://www.cybertec-postgresql.com/en/postgresql-grouping-sets-rollup-cube/"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Online_analytical_processing"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Online_transaction_processing"
+  },
+  {
+    "url": "https://github.com/DataBrewery/cubes-examples"
+  },
+  {
+    "url": "https://github.com/DataBrewery/cubes-examples"
+  },
+  {
+    "url": "https://github.com/Spread0x/olapy"
+  },
+  {
+    "url": "http://postgresguide.com/"
+  },
+  {
+    "url": "https://pgexercises.com/"
+  },
+  {
+    "url": "https://github.com/morenoh149/postgresDBSamples"
+  },
+  {
+    "url": "https://zaiste.net/posts/postgresql-primer-for-busy-people/"
+  },
+  {
+    "url": "https://github.com/dataegret/pg-utils"
+  },
+  {
+    "url": "https://w7cloud.com/cisco-router-configuration/"
+  },
+  {
+    "url": "https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723"
+  },
+  {
+    "url": "https://www.imperva.com/blog/bgp-routing-explained/"
+  },
+  {
+    "url": "https://copyshark.net/"
+  },
+  {
+    "url": "https://rjbs.manxome.org/rubric/entry/2126?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://nauman.medium.com/my-rails-project-default-setup-a577677703d2"
+  },
+  {
+    "url": "https://nomadvisa.io/touristvisa"
+  },
+  {
+    "url": "https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337"
+  },
+  {
+    "url": "https://www.mayor.io/projects"
+  },
+  {
+    "url": "https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_bgp/configuration/xe-16/irg-xe-16-book/configuring-a-basic-bgp-network.html"
+  },
+  {
+    "url": "https://www.blinkist.com/en/books/the-courage-to-be-disliked-en"
+  },
+  {
+    "url": "https://acloudguru.com/blog/engineering/brazeal-in-praise-of-s3-the-greatest-cloud-service-of-all-time"
+  },
+  {
+    "url": "https://jvns.ca/blog/confusing-explanations/"
+  },
+  {
+    "url": "https://docs.manim.community/en/stable/examples.html"
+  },
+  {
+    "url": "https://paily.io/ru/settings/#bank-account"
+  },
+  {
+    "url": "https://www.gucci.com/uk/en_gb/lo/runway/men/ouverture-2021/look-21-p-FW21_MNMLook021EU"
+  },
+  {
+    "url": "https://wiki.gentoo.org/wiki/Centralized_authentication_using_OpenLDAP/en"
+  },
+  {
+    "url": "https://linuxhint.com/openldap-beginner-guide/"
+  },
+  {
+    "url": "https://www.howtoforge.com/linux_openldap_setup_server_client?__cf_chl_captcha_tk__=pmd_hEZGd2Gd85OECLGr.VlDRFJ8LNSF5cx8cetjdY8HqDU-1629659858-0-gqNtZGzNAtCjcnBszQaR"
+  },
+  {
+    "url": "https://medium.com/codex/are-you-underpaid-as-a-software-engineer-55d685150548"
+  },
+  {
+    "url": "https://neptune.ai/blog/knn-algorithm-explanation-opportunities-limitations?utm_source=mlndev&utm_medium=post&utm_campaign=blog-knn-algorithm-explanation-opportunities-limitations&ref=mlnews"
+  },
+  {
+    "url": "https://crossplane.io/"
+  },
+  {
+    "url": "https://rafay.co/the-kubernetes-current/getting-started-with-amazon-eks/"
+  },
+  {
+    "url": "https://www.contino.io/insights/kubernetes-is-hard-why-eks-makes-it-easier-for-network-and-security-architects"
+  },
+  {
+    "url": "https://faun.pub/amazon-eks-fully-private-worker-nodes-eea737944b2b"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html"
+  },
+  {
+    "url": "https://eksctl.io/usage/eks-private-cluster/"
+  },
+  {
+    "url": "https://eksctl.io/usage/cloudwatch-cluster-logging/"
+  },
+  {
+    "url": "https://docs.projectcalico.org/getting-started/kubernetes/managed-public-cloud/eks"
+  },
+  {
+    "url": "https://k8s-dev.github.io/posts/eksfargate/"
+  },
+  {
+    "url": "https://www.kubeflow.org/docs/distributions/aws/customizing-aws/private-access/"
+  },
+  {
+    "url": "https://www.fugue.co/"
+  },
+  {
+    "url": "https://www.getambassador.io/summer-of-k8s/code/#month1-challenges"
+  },
+  {
+    "url": "https://www.getambassador.io/summer-of-k8s/ship/#month2-challenges"
+  },
+  {
+    "url": "https://www.getambassador.io/summer-of-k8s/run/#month3-challenges"
+  },
+  {
+    "url": "https://codepen.io/aaroniker/full/MWgNKGr"
+  },
+  {
+    "url": "https://chown.io/defend-against-ddos-tor/"
+  },
+  {
+    "url": "https://kunle.app/feb-2021-how-to-dismantle-turbotax.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://nodes.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://0data.app/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "url": "https://smoothstep.io/"
+  },
+  {
+    "url": "https://pixeljets.com/blog/clickhouse-vs-elasticsearch/?utm_source=hackernewsletter&utm_medium=email&utm_term=data"
+  },
+  {
+    "url": "https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works?utm_source=hackernewsletter&utm_medium=email&utm_term=learn"
+  },
+  {
+    "url": "https://chown.io/guide-host-your-own-onion-site-tor-nginx/"
+  },
+  {
+    "url": "https://chown.io/tor-middle/"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Body_shopping"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Offshoring"
+  },
+  {
+    "url": "https://github.com/denvaar/pgdiff"
+  },
+  {
+    "url": "https://github.com/kyleconroy/sqlc"
+  },
+  {
+    "url": "https://www.cybertec-postgresql.com/en/postgresql-vs-redis-vs-memcached-performance/"
+  },
+  {
+    "url": "https://web.dev/webtransport/"
+  },
+  {
+    "url": "https://github.com/GoogleChrome/samples/tree/gh-pages/webtransport"
+  },
+  {
+    "url": "https://www.thegist.so/?ref=producthunt"
+  },
+  {
+    "url": "https://trends.vc/trends-0060-productized-services/"
+  },
+  {
+    "url": "https://trends.vc/trends-0059-managed-marketplaces/"
+  },
+  {
+    "url": "https://iboxshare.com/grzegorz-wcislo/terminal-mandelbrot"
+  },
+  {
+    "url": "https://www.sigstore.dev/"
+  },
+  {
+    "url": "https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html"
+  },
+  {
+    "url": "https://www.codethink.co.uk/articles/2021/hypocrite-commits/"
+  },
+  {
+    "url": "https://micro-editor.github.io/"
+  },
+  {
+    "url": "https://pganalyze.com/blog/postgres-create-index"
+  },
+  {
+    "url": "https://developer.confluent.io/"
+  },
+  {
+    "url": "https://www.percona.com/blog/2019/10/11/how-to-set-up-streaming-replication-in-postgresql-12/"
+  },
+  {
+    "url": "https://eax.me/postgresql-install/"
+  },
+  {
+    "url": "https://eax.me/postgresql-replication/"
+  },
+  {
+    "url": "https://hevodata.com/learn/postgresql-streaming-replication/"
+  },
+  {
+    "url": "https://www.47deg.com/blog/what-is-F-with-hole-in-scala/"
+  },
+  {
+    "url": "https://vectos.net/posts/2021-08-09-oracle-testing/"
+  },
+  {
+    "url": "https://github.com/japgolly/setup-everything-scala"
+  },
+  {
+    "url": "https://github.com/google/zx"
+  },
+  {
+    "url": "https://earthly.dev/blog/jq-select/"
+  },
+  {
+    "url": "https://nodesource.com/blog/NAN-to-Node-API-migration-a-short-story"
+  },
+  {
+    "url": "https://ls-lint.org/"
+  },
+  {
+    "url": "https://github.com/timgit/pg-boss"
+  },
+  {
+    "url": "https://vc.ru/hr/280875-pochemu-kompanii-platyat-menshe-udalennym-sotrudnikam-na-primere-gitlab"
+  },
+  {
+    "url": "https://vc.ru/finance/283005-prostoy-gayd-po-yunit-ekonomike"
+  },
+  {
+    "url": "https://preettheman.medium.com/go-golang-just-got-a-massive-update-dce56ccc64a7"
+  },
+  {
+    "url": "https://medium.com/codex/4-habits-to-succeed-as-a-software-engineer-in-faang-a03e979f39dd"
+  },
+  {
+    "url": "https://medium.com/@marcong_54227/unsuccessful-experience-of-migrating-applications-to-kubernetes-a896823d9b95"
+  },
+  {
+    "url": "https://medium.com/madhash/dont-learn-react-462a1869045f"
+  },
+  {
+    "url": "https://corgicorporation.medium.com/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463"
+  },
+  {
+    "url": "https://www.wordstream.com/ppc"
+  },
+  {
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%BE%D0%BD%D0%B8%D1%81%D1%82%D1%8B_5-HT1A-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%BE%D1%80%D0%BE%D0%B2"
+  },
+  {
+    "url": "https://ru.wikipedia.org/wiki/5-HT7-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%BE%D1%80"
+  },
+  {
+    "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BE%D0%BF%D0%B8%D1%82%D1%80%D0%BE%D0%BD"
+  },
+  {
+    "url": "https://github.com/marceloprates/prettymaps?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://jvns.ca/blog/confusing-explanations/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://earthly.dev/blog/jq-select/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://terrytao.wordpress.com/career-advice/work-hard/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://blog.placemark.io/2021/07/19/issues-only-management.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=28299053&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=28320346&utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "url": "https://github.com/johnkerl/miller?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn"
+  },
+  {
+    "url": "https://www.oilshell.org/blog/2021/08/xargs.html?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
+  },
+  {
+    "url": "https://www.monotype.com/fonts/helvetica-now-variable?utm_source=hackernewsletter&utm_medium=email&utm_term=design"
+  },
+  {
+    "url": "https://www.arun.is/blog/richard-sapper/?utm_source=hackernewsletter&utm_medium=email&utm_term=design"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Airliner_Number_4?utm_source=hackernewsletter&utm_medium=email&utm_term=design"
+  },
+  {
+    "url": "https://www.newyorker.com/magazine/2021/08/23/why-is-it-so-hard-to-be-rational?utm_source=hackernewsletter&utm_medium=email&utm_term=learn"
+  },
+  {
+    "url": "https://mayakaczorowski.com/blogs/burnout?utm_source=hackernewsletter&utm_medium=email&utm_term=working"
+  },
+  {
+    "url": "https://jacobkiers.net/hod/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun"
+  },
+  {
+    "url": "https://www.airplane.dev/"
+  },
+  {
+    "url": "https://www.scaler.com/data-science-course?utm_source=midfunnel&utm_medium=email&utm_campaign=none_scaler-dsml_homepage_midfunnel_email_remarketing_india_all"
+  },
+  {
+    "url": "https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/"
+  },
+  {
+    "url": "https://docs.projectcalico.org/about/about-network-policy"
+  },
+  {
+    "url": "https://github.com/typegoose/typegoose"
+  },
+  {
+    "url": "https://scalac.io/blog/tagless-final-pattern-for-scala-code/"
+  },
+  {
+    "url": "https://vercel.com/"
+  },
+  {
+    "url": "https://docs.projectcalico.org/networking/determine-best-networking"
+  },
+  {
+    "url": "https://www.tigera.io/blog/kubernetes-service-ip-route-advertisement/"
+  },
+  {
+    "url": "https://productdo.it/tech_pm/?utm_source=ruspm"
+  },
+  {
+    "url": "https://www.codica.com/blog/how-to-build-website-like-upwork/"
+  },
+  {
+    "url": "https://sloboda-studio.com/blog/how-to-build-a-freelance-marketplace/"
+  },
+  {
+    "url": "https://easternpeak.com/blog/how-to-develop-a-freelance-marketplace-like-upwork-and-keep-it-competitive/?amp=1"
+  },
+  {
+    "url": "https://www.apptunix.com/blog/get-an-ultimate-guide-on-how-to-build-a-freelance-marketplace/"
+  },
+  {
+    "url": "https://easternpeak.com/blog/how-to-develop-a-freelance-marketplace-like-upwork-and-keep-it-competitive/"
+  },
+  {
+    "url": "https://traktion.ai/blog/upwork-competitors-5-alternatives"
+  },
+  {
+    "url": "https://easternpeak.com/blog/how-to-develop-a-freelance-marketplace-like-upwork-and-keep-it-competitive/"
+  },
+  {
+    "url": "https://easternpeak.com/blog/how-to-develop-a-freelance-marketplace-like-upwork-and-keep-it-competitive/"
+  },
+  {
+    "url": "https://apiko.com/blog/the-go-getters-guideline-how-to-build-a-freelance-marketplace-that-stacks-up-against-upwork/"
+  },
+  {
+    "url": "https://jungleworks.com/saas-marketplace-platform/"
+  },
+  {
+    "url": "https://www.blissfully.com/guru/"
+  },
+  {
+    "url": "https://app.headz.io/?utm_source=facebook&utm_medium=cpc&utm_campaign=all_23_55_pure_flow_st&utm_content=5mo1_st&fbclid=PAAabXH1tpxNHVGhqGmvVkoIlgiEbD5-Vmzbf83S6sRNu9doGBwNDWfFN5pwM_aem_AfXWgea7zqnibGh8t7lClHVOnT0o2RMGOP5iCD_y61y4bB_RBnF4-F96amBa_MlVHcOajJ-qq-F3Ef5iLD6plxxGibZszGfPPo75cK72txo0J8VT_FQwaq3Jzn5UYIY2-EE"
+  },
+  {
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5_%D0%9B%D0%B5%D0%B2%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D0%B0"
+  },
+  {
+    "url": "https://habr.com/ru/company/piter/blog/489038/"
+  },
+  {
+    "url": "https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/"
+  }
+]

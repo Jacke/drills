@@ -1,0 +1,47 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "ESNext"
+     ],
+    "module": "node16",
+    "moduleResolution": "node16",
+    "esModuleInterop": true,
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "@drills/*": ["../shared/src/*"],
+    },
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "skipLibCheck": true,
+    "strictNullChecks": false,
+    "noImplicitAny": false,
+    "strictBindCallApply": false,
+    "forceConsistentCasingInFileNames": false,
+    "noFallthroughCasesInSwitch": false,
+    "strict": true,
+    "lib": ["esnext"],
+    "esModuleInterop": true
+  },
+  "include": [
+    "src/**/*",
+    "../src/**/*",
+    "../shared/src/*",
+  ],
+  "ts-node": {
+    // Do not forget to `npm i -D tsconfig-paths`
+    "esm": true,
+    "require": ["tsconfig-paths/register"]
+  },
+  "references": [
+    { "path": "../shared" }
+  ],
+  "_moduleAliases": {
+    "@drills": "../shared/src"
+  }
+}

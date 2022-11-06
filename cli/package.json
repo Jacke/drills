@@ -1,0 +1,22 @@
+{
+  "name": "drills-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "ts-node": "^10.2.1"
+  },
+  "devDependencies": {
+    "module-alias": "^2.2.2",
+    "tsconfig-paths": "^4.1.0",
+    "typescript": "^4.9.0-dev.20220921"
+  }
+}
